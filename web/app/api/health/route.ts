@@ -20,7 +20,7 @@ export async function GET() {
     },
     ai_status: {
       configured: apiKeyConfigured,
-      model: "gemini-2.5-flash",
+      model: "gemini-3.5-flash-lite (fallbacks: gemini-2.0-flash, gemini-1.5-flash)",
       mode: apiKeyConfigured ? "cloud_gemini_active" : "offline_excerpts_active"
     },
     timestamp: new Date().toISOString()

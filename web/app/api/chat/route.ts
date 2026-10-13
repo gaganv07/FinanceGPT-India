@@ -179,21 +179,63 @@ export async function POST(req: NextRequest) {
       }
     };
 
-    // Use Gemini 2.5 Flash via REST endpoint
-    const geminiEndpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${encodeURIComponent(apiKey.trim())}`;
+    // Step 4: Call Google Gemini API from Server
+    // Supported models in priority order:
+    // 1. gemini-3.5-flash-lite (high-throughput, low-latency Gemini 3 model requested)
+    // 2. gemini-2.0-flash (widely available modern production Flash model)
+    // 3. gemini-1.5-flash (reliable general availability fallback)
+    const CANDIDATE_MODELS = [
+      "gemini-3.5-flash-lite",
+      "gemini-2.0-flash",
+      "gemini-1.5-flash"
+    ];
 
-    const geminiRes = await fetch(geminiEndpoint, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(promptPayload),
-      cache: "no-store"
-    });
+    let generatedText: string | null = null;
+    let lastErrorStatus = 0;
+    let lastErrorMessage = "";
+    let successfulModel = "";
 
-    if (!geminiRes.ok) {
-      // Graceful fallback without exposing keys
-      const errorStatus = geminiRes.status;
+    for (const model of CANDIDATE_MODELS) {
+      const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${encodeURIComponent(apiKey.trim())}`;
+
+      try {
+        const res = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(promptPayload),
+          cache: "no-store"
+        });
+
+        if (res.ok) {
+          const data = await res.json();
+          const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+          if (text && text.trim()) {
+            generatedText = text.trim();
+            successfulModel = model;
+            console.log(`[Gemini API] Successfully generated answer using model '${model}'.`);
+            break;
+          }
+        } else {
+          lastErrorStatus = res.status;
+          const errorData = await res.json().catch(() => null);
+          const rawMsg = errorData?.error?.message || res.statusText || "Request failed";
+          // Redact any potential key or secret from logs
+          const safeMsg = String(rawMsg).replace(/([A-Za-z0-9_\-]{20,})/g, "[REDACTED]");
+          lastErrorMessage = safeMsg;
+          console.warn(`[Gemini API] Model '${model}' failed with HTTP ${res.status}: ${safeMsg}`);
+        }
+      } catch (fetchErr) {
+        const safeFetchErr = String(fetchErr).replace(/([A-Za-z0-9_\-]{20,})/g, "[REDACTED]");
+        lastErrorMessage = safeFetchErr;
+        console.warn(`[Gemini API] Network error on model '${model}': ${safeFetchErr}`);
+      }
+    }
+
+    // If all models failed or returned empty, graceful fallback to verified excerpts
+    if (!generatedText) {
+      const reasonSnippet = lastErrorMessage ? ` (${lastErrorMessage.slice(0, 80)})` : "";
       let offlineSummary =
-        `ℹ️ **AI Service Status Notice (${errorStatus}):** The server encountered a temporary upstream response while generating synthesized text.\n\n` +
+        `ℹ️ **AI Service Status Notice (HTTP ${lastErrorStatus || "Error"}):** The server encountered a temporary upstream response while generating synthesized text${reasonSnippet}.\n\n` +
         `Displaying verified excerpts directly from the official knowledge base:\n\n`;
 
       for (const c of topChunks) {
@@ -215,11 +257,6 @@ export async function POST(req: NextRequest) {
       };
       return NextResponse.json(response);
     }
-
-    const geminiData = await geminiRes.json();
-    let generatedText =
-      geminiData?.candidates?.[0]?.content?.parts?.[0]?.text ||
-      "Information retrieved from official documents.";
 
     if (safetyResult.action === "SCAM_ALERT") {
       generatedText = `${safetyResult.message}\n\n${generatedText}`;
