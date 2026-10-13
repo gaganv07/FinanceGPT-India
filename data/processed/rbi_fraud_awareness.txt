@@ -1,0 +1,35 @@
+# Source: RBI BE(A)WARE: Modus Operandi of Financial Frauds and Safe Digital Practices
+# Organization: Reserve Bank of India (RBI)
+# Official URL: https://www.rbi.org.in/financialeducation/
+# Retrieved: 2026-10-13
+
+RESERVE BANK OF INDIA — BE(A)WARE: FRAUD PREVENTION & DIGITAL HYGIENE
+Official Source: Reserve Bank of India (Consumer Education and Protection Cell)
+Website: https://www.rbi.org.in/financialeducation/
+
+1. CORE GOLDEN RULES FOR FINANCIAL SAFETY:
+- NEVER SHARE YOUR CONFIDENTIAL CREDENTIALS: Never share your OTP, UPI PIN, ATM PIN, Password, CVV, or Card Expiry Date with ANYONE.
+- RBI OR BANK OFFICIALS NEVER ASK FOR PASSWORDS OR OTPS: Neither the RBI, banks, nor police officials ever call customers requesting OTPs or asking them to transfer money to "safe accounts".
+- UPI PIN IS ONLY REQUIRED TO SEND MONEY: You DO NOT need to enter your UPI PIN to receive money. If someone asks you to enter your PIN or scan a QR code to receive a payment or refund, IT IS A SCAM.
+
+2. COMMON FRAUD MODUS OPERANDI AND PREVENTIONS:
+
+A. PHISHING & VISHING (Voice Phishing):
+- Modus Operandi: Fraudsters pose as bank managers, telecom operators, or electricity board agents claiming your account, SIM, or electricity will be disconnected unless you update KYC immediately via a link or app.
+- Safeguard: Never click on unverified links sent via SMS, WhatsApp, or Telegram. Contact your local branch directly using official numbers printed on the back of your debit card.
+
+B. FAKE LOAN APPS:
+- Modus Operandi: Unregulated mobile applications offer instant, collateral-free loans, obtain full access to phone contacts and photo galleries, charge extortionate interest rates, and resort to blackmail.
+- Safeguard: Check the list of RBI-registered NBFCs and banks before downloading loan apps. Never grant contacts or media permissions to unverified loan apps.
+
+C. SIM SWAP FRAUD:
+- Modus Operandi: Fraudsters acquire a duplicate SIM card in your name using fake KYC documents, intercepting your 2FA OTPs while your original SIM loses signal.
+- Safeguard: If your mobile phone abruptly loses cellular network signal for an extended period, immediately contact your mobile network operator.
+
+D. WORK-FROM-HOME / SOCIAL MEDIA INVESTMENT SCHEMES:
+- Modus Operandi: Scammers recruit victims via Telegram or WhatsApp offering high part-time pay for rating movies, liking YouTube videos, or trading crypto. Initial small returns are paid to build trust, followed by demands for lakhs of rupees which are then frozen.
+- Safeguard: Guaranteed high returns with zero risk do not exist in legitimate markets. Avoid unverified Telegram trading groups.
+
+3. IMMEDIATE ACTION UPON FACING FRAUD:
+- Report within the Golden Hour: Immediately call the National Cyber Crime Helpline at 1930 or file a complaint at https://cybercrime.gov.in.
+- Block Cards & Net Banking: Call your bank's toll-free number immediately to hotlist your card and freeze compromised bank accounts.

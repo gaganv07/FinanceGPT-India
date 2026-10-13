@@ -1,0 +1,20 @@
+# Source: RBI Initiative: UPI for Feature Phones (UPI123Pay) and DigiSaathi Helpline
+# Organization: Reserve Bank of India (RBI)
+# Official URL: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53385
+# Retrieved: 2026-10-13
+
+The Reserve Bank has launched two key initiatives today – (1) UPI123Pay – Option to make Unified Payments Interface (UPI) payments for feature phone users, and (2) DigiSaathi - a 24x7 Helpline to address the queries of digital payment users across products. While launching the two initiatives, RBI Governor Shri Shaktikanta Das highlighted the importance of these initiatives in enhancing the diversity, utility and transformational power of digital innovations in the country. These initiatives will further deepen the digital ecosystem and financial inclusion. The Governor also stated that the RBI stands committed to providing an enabling environment for this.
+
+At present, efficient access to UPI is available on smart phones. UPI can be accessed through NUUP (National Unified USSD Platform) using the short code of *99#. But this option is cumbersome and not popular. Considering that there are more than 40 crore feature phone mobile subscribers in the country, UPI123pay will materially improve the options for such users to access UPI. UPI123Pay includes four distinct options as below:
+
+App-based Functionality : An app would be installed on the feature phone through which several UPI functions, available on smartphones, will also be available on feature phones.
+
+Missed Call : This will allow feature phone users to access their bank account and perform routine transactions such as receiving, transferring funds, regular purchases, bill payments, etc., by giving a missed call on the number displayed at the merchant outlet. The customer will receive an incoming call to authenticate the transaction by entering UPI PIN.
+
+Interactive Voice Response (IVR) : UPI payment through pre-defined IVR numbers would require users to initiate a secured call from their feature phones to a predetermined number and complete UPI on-boarding formalities to be able to start making financial transactions without internet connection.
+
+Proximity Sound-based Payments : This uses sound waves to enable contactless, offline, and proximity data communication on any device.
+
+The 24x7 Helpline – ‘DigiSaathi’ – provides a channel to obtain help on the entire gamut of digital payments. Automated responses on information related to digital payment products and services are available in Hindi and English through multiple options like – (a) toll-free number (1800-891-3333), (b) a short code (14431), (c) website – www.digisaathi.info , and chatbots. DigiSaathi will assist users with their queries on digital payments via website & chatbot facility and through toll-free calls where user can dial or call out the options / products for which the information is required. More interactive options and language choices shall be enabled going forward.
+
+The above initiatives are envisioned to accelerate the process of digital adoption in India, by creating a richer and inclusive ecosystem that can accommodate larger sections of population.

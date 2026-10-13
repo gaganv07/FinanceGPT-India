@@ -1,0 +1,2245 @@
+# Source: SEBI Investor Guide: Equities vs Corporate Debentures and Bonds
+# Organization: Securities and Exchange Board of India (SEBI)
+# Official URL: https://investor.sebi.gov.in/pdf/reference-material/sharedebentureholder.pdf
+# Retrieved: 2026-10-13
+
+--- Page 1 ---
+ 1
+BEGINNERS GUIDE - SHARE AND DEBENTURE HOLDERS 
+ 
+1. Introduction: 
+ 
+In keeping with SE BI credo that an “ Educated investor is a protected investor”, 
+this write-up spells out your rights and responsibilities as a share / debenture 
+holder. 
+ 
+Constant vigil by investors is a basic pr erequisite for the efficient and effective 
+functioning of capital markets in a di sclosure based regime. Accordingly, this 
+write up also endeavors to empower you by detailing the disclosures that are 
+available in public domain for making informed investment decisions. 
+ 
+As a share or debenture holder, it is important for you to be aware of the 
+procedures to manage your investment in securities (the collective name for 
+equity shares, debentures, bonds, mutual fund units etc.) 
+ 
+Managing your investment in securities is simple and easy in electronic form 
+(dematerialized form) and it has many advant ages over managing it in physical 
+form (share / debenture certificates). Accordingly, this write-up details 
+dematerialization of securities, besides describing the procedure for managing 
+securities in physical form. 
+ 
+2. Dematerialization of securities 
+ 
+a. What is it? 
+ 
+Your investments in shares and debentures can be held in electronic 
+or dematerialized form in a Depository. Depository is an entity which 
+holds securities (shares, debentures, bonds, government securities, 
+mutual fund units etc.) of investors in electronic form at the request of 
+the investors. National Securities Depository Limited (NSDL) and 
+Central Depository Services (I ndia) Limited (CDSL) are the 
+Depositories that are licensed to operate in India and are registered 
+with SEBI. 
+ 
+Dematerialization is comparable to keeping your money in a bank 
+account. In demat form, your physica l share certificates are replaced 
+by electronic book entries; purchase of shares are reflected as credits 
+in your demat account and sales are reflected as debits. 
+ 
+BANK-DEPOSITORY – AN ANALOGY 
+BANK DEPOSITORY 
+Holds funds in an account Holds securities in demat account 
+
+--- Page 2 ---
+ 2
+Transfers funds between 
+accounts on the instruction of the 
+account holder 
+Transfers securities between accounts on the 
+instruction of the demat account holder 
+Facilitates transfer of money 
+without having to handle money 
+Facilitates transfer of ow nership of securities 
+without having to handle securities (shares & 
+debentures etc.) 
+Facilitates safekeeping of money Faci litates safekeeping of securities 
+ 
+ 
+b. Depository Participant (DP) is an agent of the Depository through 
+which you maintain and operate your demat account; the DP provides 
+the interface between you and the Depository. 
+ 
+Just as banking services can be availed through a branch, depository 
+services can be availe d through a DP. Any financ ial service provider, 
+including, financial institutions, banks, state financial corporations, 
+stock-brokers, NBFC etc. complying with SEBI’s norms can be register 
+and function as a DP. 
+ 
+ 
+c. What are the advantages / benefits of demat? 
+ 
+It is advisable to hold your securities in demat form as it offers many 
+advantages as under: 
+ 
+Primary markets 
+ Nowadays, public issues are taking place in demat mode. 
+Accordingly, to apply in public issues, you need to have demat 
+account. 
+ Allotment of shares in public issue is credited to your demat 
+account and hence there is no scope of loss of share ce rtificates in 
+transit. 
+ 
+Secondary markets 
+ As per the available statistics at BSE and NSE, 99.9% transactions 
+are taking place in demateria lised mode only. Shares bought 
+through the stock exchange is credi ted to your demat account. 
+Unlike in physical shares, there is no scope for bad delivery or fake 
+shares. Further, unlike physical ce rtificates, you do not have to 
+send the shares purchased to the co mpany to transfer it to your 
+name. Therefore, there is no scope fo r delay in transfer or for loss 
+of share certificates in transit. There is considerable reduction in 
+paper work and transaction cost in demat mode. You can view all 
+your investments in listed compani es or mutual funds in single 
+account. You receive all the cor porate benefits like rights, bonus 
+
+--- Page 3 ---
+ 3
+shares directly into your demat account and dividend into bank 
+account registered in your demat account. 
+ 
+Box 1: Trading with physical shares through stock exchange 
+Nowadays, 99.9% transactions take place in dematerialised mode only. 
+However, stock exchanges provide an additional trading window to facilitate 
+trading by small investors in physi cal mode (maximum of 500 shares, 
+irrespective of their value). This is a one time facility for small investors who 
+hold shares in their name and the buyer of these shares has to demat such 
+shares before selling it through the exchange. This facility is provided only for 
+companies which are traded in compulsory demat mode 
+ 
+Further, in the case of companies that have failed to establish connectivity 
+with the two Depositories, then trading in the stock exchange is allowed 
+only in physical form 
+ 
+Managing your investment in demat mode 
+ It is safe and convenient to hold securities in demat form. Unlike 
+physical certificates, there is no scope of loss, misplacement, theft 
+or deterioration of securities in demat mode. 
+ Correspondences like annual repor ts, notice for AGM etc. are 
+despatched to the address of inve stor mentioned in their demat 
+account. Therefore, in case of change in your address, it is 
+sufficient that you intimate the DP alone for all your investments in 
+securities. Whereas if you hold ph ysical certificates, you have to 
+intimate each company separately. 
+ Refunds, dividend, interest and redemption payment of debentures 
+are automatically credited to t he bank account mentioned in your 
+demat account, where ever such faci lity is available. Otherwise, the 
+payment instrument is despatched to your address mentioned in 
+your demat account, wit h your bank number pr inted on the warrant 
+to prevent misuse. Therefore, in case of change in your bank 
+account, it is sufficient that you intimate the DP alone for all your 
+investments in securities. Whereas if you hold physical certificates, 
+you have to intimate each company separately. 
+ You can avail the nomination facility for your demat account with 
+the DP. Whereas if you hold physica l certificates, you have to avail 
+nomination separately for each company. 
+ In the event of demise of the acc ount holder, the securities held in 
+the demat account are transmitt ed to the nominee by the DP. 
+Whereas in the case of physical certificates, your nominee will have 
+to correspond separately with each company for transmission of 
+shares in his / her name. 
+ Non cash benefits like issue of bonus shares, stock splits, 
+consolidation, mergers etc. are automatically credited to your 
+
+--- Page 4 ---
+ 4
+demat account. Whereas, in physical certificates there is a potential 
+for loss in transit, delay in despatch etc. 
+ Unlike in physical certificates , stamp duty is not applicable for 
+transfer of securities in demat mode 
+ Depositories offer alerts on debits or credits in your demat account, 
+received due to IPO or other corporate actions through SMS. 
+Therefore, monitoring your investments is easier in demat mode. 
+ Pledging your securities in dem at form is simpler than pledging 
+physical certificates. 
+ Unlike with physical certific ates, you can trade even one single 
+share in the stock exchange in dema t mode as there is no problem 
+of odd lots (shares in compulsory demat list). 
+ 
+ 
+d. How to open a demat account? 
+ 
+Step 1: 
+To open a demat account, you have to approach a Depository 
+Participant ( DP), an agent of Depository, and fill up an account 
+opening form. The list of DPs is av ailable in the websites of 
+Depositories at the following web links: 
+ 
+ http://www.cdslindia.com/ > publication > dplist (or) 
+ http://www.cdslindia.com/publication/dplist.jsp 
+ 
+ https://nsdl.co.in/ > Advanced Search – DP Search – Direct 
+connectivity centres / Service Centers (or) 
+https://nsdl.co.in/direct_search.php 
+ 
+Step 2: 
+Along with the account opening form, you must enclose any one of the 
+following documents for proof of identity and proof of address as 
+under. 
+ 
+No. Documents for proof of 
+identity 
+Documents for proof of address 
+1 Passport 
+2 Voter ID Card 
+3 Driving license 
+4 Identity card / document with applicant’s Photo, issued by 
+a. Central / State Government and its Departments 
+b. Statutory / Regu latory Authorities 
+c. Public Sector Undertakings 
+d. Scheduled Commercial Banks 
+e. Public Financial Institutions 
+f. Colleges affiliated to Universities 
+
+--- Page 5 ---
+ 5
+g. Professional Bodies such as ICA I, ICWAI, ICSI, Bar Council etc., to 
+their Members and; 
+ h. Credit cards / Debit cards 
+issued by banks 
+ 
+5 PAN card with photograph Bank Passbook 
+6 - Ration Card 
+7 - Verified copies of 
+a) Electricity bills (not more than 2 
+months old) 
+b) Residence Telephone bills (not more 
+than 2 months old) and 
+c) Leave and License agreement / 
+Agreement for sale 
+8 - Self-declaration by High Court and 
+Supreme Court judges , giving the new 
+address in respect of their own accounts 
+ 
+You have to show the original doc uments, including PAN card, for 
+verification by the DP at the time of account opening. 
+ 
+Step 3: 
+You will have to enter into an agr eement with DP in the depository 
+prescribed standard format, which gives details of rights and duties of 
+investor and DP. You are entitled to receive a copy of the agreement 
+and schedule of charges for future reference. 
+ 
+Step 4: 
+The DP will then open an account and give you the demat account 
+number .This is also called Beneficial Owner Identification number (BO 
+ID). All your purchases / investment s in securities will be credited to 
+this account. If you sell your secu rities, your demat account will be 
+debited. 
+ 
+You can have multiple demat accounts if you so wish. You can choose 
+your DP as per your convenience and there is no compulsion to open 
+DP account with your stock broker. 
+ 
+You may also like to peruse the procedure for opening demat account 
+and to dematerialize your shares av ailable at the websites of CDSL 
+and NSDL at the following web links 
+ 
+http://www.cdslindia.com/downloads/Investors%20Guide.pdf (or) 
+http://www.cdslindia.com/ > Publications > Investor’s Guide 
+ 
+https://nsdl.co.in/faq.php (or) 
+https://nsdl.co.in > FAQs > General 
+
+--- Page 6 ---
+ 6
+ 
+ 
+Points to Remember 
+Update your bank account details (bank account number, IFSC code) 
+and postal address etc. of your dema t account as and when there is a 
+change, as you will receive direct cr edit of refunds, dividends, interest 
+& redemption payment and corpor ate correspondences like Annual 
+reports notice of AGMs etc. as per the details mentioned in your 
+demat account. 
+ 
+e. What are the charges applicable for demat account 
+ 
+ Investors are required to pay the charges towards:- 
+• Dematerialisation and Rematerial isation of your securities 
+• Annual account maintenance 
+• Transactions fees (only for sell transactions) 
+ 
+The charges of DPs are available in comparable structure in the 
+websites of the Depositories at the following web links. 
+ 
+• CDSL: http://www.cdslindia.com/whatsnew/dpineasi.jsp or 
+http://www.cdslindia.com/ > Quick Link - List of CDSL DPs 
+ 
+• NSDL: https://nsdl.co.in/about/dps.php or 
+https://nsdl.co.in/ > Joining NSDL > As an Investor > Charges 
+ 
+Points to Remember 
+o The DP may revise the char ges by giving 30 days notice in 
+advance. 
+o If demat account is closed in between of the year, Annual 
+Maintenance charges shall be levied proportionately for each 
+quarter. 
+o There is no minimum number of shares that have to be kept in the 
+demat account. 
+o No charge is applicable for closure of DP account. 
+o No charge for transfer of holding s from one DP to another DP, if 
+investor is not satisfied with the services of your existing DP. 
+ 
+f. Nomination 
+Nomination smoothen the transmission of y our securities to your heirs, 
+upon demise. 
+ 
+For physical shares, you have to av ail nomination separately for each 
+company in which you hold shares / debentures. Whereas, by availing 
+nomination for your demat account, all your investments in that 
+account is covered under that nomi nation. The procedure to avail 
+
+--- Page 7 ---
+ 7
+nomination for demat and physical mode of securities is covered under 
+next chapter ‘Managing your securities’ at section 3. 
+ 
+ 
+g. How to demat your shares? 
+ 
+To demat your physical certificat es, you should approach the DP and 
+submit the following documents 
+o Dematerialization Request Form (DRF) 
+o Physical certificates by marking “Surrendered for Dematerialization” 
+ 
+Separate DRF has to be filled for each ISIN. 
+ 
+The process of dematerialisation is as follows: 
+o Surrender your certificates to your DP for dematerialisation 
+o The DP intimates your request to the Depository through the 
+system 
+o The DP submits the certificates to the Registrar and Share Transfer 
+Agent (RSTA) of the Company 
+o In case of any objection or in case of any need for any additional 
+documents, the RSTA informs you directly. RSTA confirms the 
+dematerialisation request from Depository 
+o After dematerialising the certific ates, RSTA updates the accounts 
+and informs Depository regarding completion of dematerialisation 
+o Depository updates its a ccounts and informs the DP 
+o The DP then updates your demat account by crediting the shares 
+ 
+Before approaching your DP for dem ating your shares, you can check 
+the list of shares and debentures that can be dematted from the 
+websites of CDSL and NSDL at the following web links: 
+ 
+CDSL: http://www.cdslindia.com/publication/IsinList.jsp (or) 
+http://www.cdslindia.com/ > Publications > Securities List 
+ 
+NSDL: https://nsdl.co.in/downloadables/list-codes.php (or) 
+https://nsdl.co.in/ > Advanced Search – Company Search – Securities 
+with ISIN Codes 
+ 
+ 
+Points to Remember 
+o Remember, to convert physical ce rtificates into demat mode, the 
+name in the share certificate sh ould match with the name of the 
+demat account holder. 
+o In case of joint holding, the nam e should be in the same order both 
+in the physical certificate as well as in the demat account. However, 
+you can request to change the order of the names of the joint 
+
+--- Page 8 ---
+ 8
+holders in the share certificate by submitting a Transposition cum 
+Demat Form (http://www.cdslindia.com/downloads/forms/Annexure-
+4.2-Transposition%20Request%20Form.doc ). Example: You may 
+have a demat account in the sequence of, , ‘A’ & ‘B’, whereas the 
+share certificate may be in the sequence of ‘B’ & ‘A’. In this case, 
+you can lodge the security certificates for dematerialisation in the 
+same account by filling Transposition cum Demat Form to effect 
+change in the order of names and to dematerialise the securities as 
+well 
+o Depository websites hav e a list of shares in demat form. Investor 
+can not demat the shares of vanish ing companies or shares of the 
+companies which are not in list of depositories. 
+ 
+ 
+h. ISIN number 
+i. What is ISIN number? 
+ 
+ISIN (International Securities Identification Number) is a 
+unique 12 digit alpha-numeric iden tification number allotted to 
+each security. (E.g.- INE383 C01018). Fully paid-up equity 
+shares, partly paid-up shares, equi ty with differential voting / 
+dividend rights issued by the sa me issuer will have different 
+ISINs. 
+ 
+ 
+ii. How to find ISIN number? 
+ 
+The details of ISIN number of se curities are available in the 
+web site of National Securities Depository Limited and Central 
+Depository Services (India) Limited. 
+ 
+The web link for the same is, 
+CDSL: http://www.cdslindia.com/publication/IsinList.jsp (or) 
+http://www.cdslindia.com/ > Publications > Securities List 
+ 
+NSDL: https://nsdl.co.in/downloadables/list-codes.php (or) 
+https://nsdl.co.in/ > Advanced Search – Company Search – Securities with ISIN 
+codes. 
+ 
+ 
+i. Power of attorney (PoA) 
+ 
+You have the option to authorize any person to operate your DP 
+account by executing a power of attorney (PoA) and submitting it to the 
+DP. PoA enables the authorised person to operate the account on your 
+behalf. 
+
+--- Page 9 ---
+ 9
+ 
+You have the option to grant PoA in fa vour of your broker and or DP to 
+operate your account, i.e. to buy or sell shares on your behalf, debit or 
+credit your bank account and DP account. However, you are required 
+to carefully read and understand all t he clauses of the PoA before 
+signing it. 
+ 
+PoA is an optional facility and executing it is not mandatory. No 
+stock broker or DP can deny ser vices to you if you refuse to 
+execute it. You can revoke PoA at any time. 
+ 
+. 
+ 
+ 
+j. Other features / facilities of demat account 
+ 
+i. Consolidation: If you hold various folios of a particular 
+company and want to consolidat e them into single folio, you 
+can forward the physical certificates along with the letter 
+signed by you to the RSTA of the company 
+ 
+ii. Account Freezing : You can freeze your account and / or 
+specific security and / or specific number of securities for any 
+given period of time 
+ 
+iii. Account types: Similar to the bank account, you can open 
+demat account in single / joint names / multiple accounts. If 
+you are opening an account fo r the minor, guardian should 
+be appointed for operating the account. 
+ 
+However, you can not open demat account in “either or 
+survivor” basis. You can not change name or add or delete 
+the account holder’s names. In su ch instances, you have to 
+open new demat account with the desired names. 
+ 
+ 
+k. Grievance Redressal 
+ 
+The list of common complaints against DP, is as under 
+ 
+Type I Account Opening Related 
+I a Denial in opening an account 
+I b Account opened in another name instead of what was requested 
+I c Non receipt of Account Opening Kit 
+I d Delay in activation/ opening of account 
+I e Non Receipt of copy of DP Client Agreement/Schedule A of Charges 
+
+--- Page 10 ---
+ 10
+Type II Demat/Remat Related 
+II a Delay in Dematerialisation request processing 
+II b Delay in Rematerialisation request processing 
+II c Delay in/ Non-Receipt of Original certificate after demat rejection 
+II d Non Acceptance of demat/remat request 
+Type III Transaction Statement Related 
+III a Delay in/ Non-Receipt of Statements from DP 
+III b Discrepancy in Transaction statement 
+Type IV Improper Service Related 
+IV a Insistence on Power of Attorney in its favour 
+IV b Deactivation/ Freezing/ Suspension related 
+IV c Defreezing related 
+IV d Transmission Related 
+IV e Pledge Related 
+IV f SMS Related 
+IV g Non-updation of changes in account (address/ signatories/bank details/ 
+PAN/ Nomination etc.) 
+Type V Charges Related 
+V a Wrong/ Excess Charges 
+V b Charges paid but not credited 
+V c Charges for Opening/closure of Account 
+Type VI Delivery Instruction Related (DIS) 
+VI a Non acceptance of DIS for transfer 
+VI b Delay in/ non Execution of DIS 
+VI c Delay in Issuance / Reissuance of DIS Booklet 
+Type VII Closure 
+VII a Non closure/ delay in closure of account 
+VII b Closure of a/c without intimation by DP 
+Type VIII Manipulation/ Unauthorised Action 
+VIII a Unauthorised Transaction in account 
+VIII b Manipulation 
+VIII c Unauthorised changes in account (address/ signatories/bank 
+details/PAN etc.) 
+Type IX Company/ RTA related 
+IX a Corporate Action – Cash 
+IX b Corporate Action – Non–Cash 
+IX c Initial Public Offer/ Follow-on Public Offer Related 
+Type X Others 
+ 
+ 
+In case of any grievance of t he aforesaid nature, you should 
+immediately contact the compliance officer of the DP at 
+(http://www.cdslindia.com/publication/dplist.jsp ; 
+https://nsdl.co.in/dpsch.php ). 
+ 
+
+--- Page 11 ---
+ 11
+In case your grievance is not re dressed within a reasonable time, you 
+can escalate your complaint to the concerned Depository (NSDL or 
+CDSL). (http://www.cdslindia.com/ ; https://nsdl.co.in/). 
+ 
+If your grievance is still not redre ssed, you can escalate the complaint 
+to SEBI. The complete contact details of SEBI are given in the last 
+page of this write up. 
+ 
+However, If you do not receive credits in your demat account for 
+corporate actions like bonus shares , stock splits, consolidation, 
+mergers etc) or for any other compla int pertaining to the company, you 
+should approach the company and not the DP. Please refer to the 
+section ‘Grievance redressal’ at section 7 for more information. 
+ 
+Points to remember: 
+• You can also send your griev ance to the DP at its dedicated 
+e-mail address, which is availa ble exclusively for receiving 
+investor complaints. The web link for the same in case of 
+NSDL is https://nsdl.co.in/dpsch.php ; and in case of CDSL 
+is http://www.cdslindia.com/publication/dplist.jsp 
+• The details of investor comp laints against DPs are available 
+in the website of the re spective Depository at 
+(http://www.cdslindia.com/investors/sebistatus_reports.jsp ; 
+https://nsdl.co.in/nsdlnews/investors-arbitration-details.php ) 
+ 
+3. Managing your securities 
+a. Contacting the company 
+Address of registered office of all companie s is available on the 
+website of Ministry of Corporate Affairs. Th e web link for the same 
+is 
+http://www.mca.gov.in/DCAPortalWeb/dca/MyMCALogin.do?metho
+d=setDefaultProperty&mode=31 (or) 
+http://www.mca.gov.in/ > MCA21 services > > View Company 
+Master Data & index of charges > view company master data 
+ 
+The addresses of corporate office of listed companies are available 
+in the website of the stock exchange(s) at the following web links: 
+BSE: 
+http://www.bseindia.com/bseplus/StockReach/AdvanceStockReach
+.aspx?scripcd=500002 (or) 
+http://www.bseindia.com/ > Get Quote (type the company name 
+and select the company from list, if any) > Filing & other info 
+ 
+NSE: 
+http://www.nseindia.com/content/corporate/corp_introduction.htm 
+
+--- Page 12 ---
+ 12
+(or) http://www.nseindia.com/ > Corporates > Corporate Information 
+> 
+ 
+Please also see the section Gr ievance Redressal and ‘General 
+information on companies’ for more information. 
+ 
+b. How to avail nomination? 
+It is very important that you have availed nomination facility for all 
+your investments as it ensures smooth transmission of shares to 
+legal heir(s), upon demise of de mat account holder. Nomination do 
+away with the hazards of your legal heir from undergoing prolonged 
+and cumbersome procedures to stake his / her claim in case of 
+your unexpected / untimely demise. It is equally important to keep 
+your nominee / legal heir updated on your investments in securities. 
+ 
+Demat mode: You can register any indivi dual as nominee for your 
+demat account. For this, fill up the Form for Nomination and submit 
+it to your DP along with the enclosures 
+(http://www.cdslindia.com/communiques/DP/DP-1424-Nomination-
+in-BO-accounts-made-compulsory.pdf ; 
+https://nsdl.co.in/downloadables/annex-ja.pdf ). Please note that 
+this nomination is for the dem at account and nomination for 
+individual securities is not allowed. 
+ 
+By this one time exercise of nomi nation, all your investments in 
+your demat account are covered. Un like for shares held in physical 
+mode you do not have to nominate s eparately to each company, in 
+which you hold shares / debentures. 
+ 
+On the demise of the beneficial owner all the securities held in 
+demat account are ‘transmitted’ to the nominee account by the DP 
+on submission of the prescribed documents. 
+ 
+Physical mode: Avail nomination for your physical shares through 
+RSTA of each of the company in which you hold shares / 
+debentures. 
+ 
+ 
+c. Intimation of change in bank account or address 
+Demat mode : Nowadays refunds, dividend, interest and 
+redemptions payments are directly credited to your bank account 
+electronically1, wherever such facility is available. The bank account 
+details2 mentioned in your demat account is used for making such 
+ 
+1 Electronic mode of fund transfer include, 1) ECS – Electronic Clearing Service 2) NEFT – National 
+Electronic Fund Transfer etc. 
+2 Bank account number, IFSC code, MICR code etc. 
+
+--- Page 13 ---
+ 13
+credits. Accordingly, you should communicate any change in your 
+bank account to your DP in a timely manner. 
+ 
+Further, ensure that change in y our residential address is updated 
+in your demat account by informi ng your DP. This will ensure that 
+corporate communications, like annua l reports, notice for AGM, 
+letter of offer etc., from all the companies that you have invested, 
+reaches you. 
+ 
+Physical mode: If you still hold your investments in physical mode, 
+it is important to communicate change in your bank details, to the 
+Registrar and Share Transfer Agent (RSTA) of all the companies in 
+which you have invested. This will enab le direct credit of dividend, 
+interest and redemption payments et c. into your bank account, 
+wherever such facility is av ailable. Other wise warrants are 
+dispatched through mail to your address. 
+ 
+Accordingly, any change in your residential addr ess should be 
+communicated to the RSTA of all the companies in which you have 
+invested so that such paym ents as well as corporate 
+communications reach you. 
+ 
+ 
+d. How to transfer securities 
+Demat mode: Shares and debentures in your demat account can 
+be transferred to another demat account by issuing appropriate 
+instructions to your Depository Participant ( DP) through Delivery 
+Instruction Slip ( DIS). If you sell your securities through the stock 
+exchange, you will in struct your DP to transfer shares from your 
+demat account to the brokers’ pool account. In case of off market 
+transaction, you will instruct your DP to transfer to the concerned 
+buyer’s demat account. 
+ 
+Similarly, securities can be trans ferred to your demat account by 
+the instruction of the seller (tr ansferor) to his DP . The seller will 
+have to mention your demat account number in the DIS. 
+ 
+The DIS book is similar to a cheque book and it needs to be 
+handled with the same care as a cheque book. Accordingly, you will 
+always store the DIS book in a safe place in your custody and not 
+hand over signed blank DIS to anybody. 
+ 
+Physical certificates: You can transfer shares or debentures to your 
+name by forwarding the following documents to RSTA of the 
+Company 
+ 
+
+--- Page 14 ---
+ 14
+i. Original Certificate(s) 
+ii. Duly completed Share Transfer Form(s) with valid stamp 
+iii. Copy of PAN card 
+ 
+In case of sale of securities in physical mode, they can be 
+transferred to the buyer by affixing your signature transfer deeds. 
+ 
+Time line for transfer: Listed companies are required to transfer 
+shares or send the objection memo within 1 month from the date of 
+lodgment for transfer deeds, original certificates and all other 
+required documents. In case of debentures / bonds, the company is 
+required to effect the transfer wit hin 2 months from the date of 
+lodgment for transfer deeds, original certificates and all other 
+required documents. 
+ 
+Compensation in case of delay: You are entitled to claim interest 
+from the company in case of delay in transfer of shares beyond the 
+30 day period. For this, you can fi le for arbitration at the stock 
+exchange where company’s shares are listed. 
+ 
+ 
+e. Transmission of securities 
+In the event of death of a share / debenture holder, his / her ownership 
+rights can be passed on to the legal heir / nominee through a process 
+known as transmission. The procedure for transmission of securities is 
+as follows; 
+ 
+1. If you are a nominee: 
+• For shares in demat mode , you have to provide the following 
+documents to the Depository Participant (DP) 
+9 Notarized copy of the death certificate 
+9 Duly filled Transmission Request Form (TRF) 
+(http://www.cdslindia.com/downloads/Operating%20Instruction
+/Annexures-as-of-June-2010.pdf ; 
+https://nsdl.co.in/downloadables/annex-o.pdf ) 
+ 
+• For physical certificates, you may be required to provide one or 
+more of the following documents to the RSTA 
+9 Original Share certificates 
+9 Duly filled Transmission Request Form (TRF) 
+9 An affidavit / declaration by the nominee declaring your rights 
+9 Notarized copy of the death certificate 
+9 Copy of PAN card 
+ 
+2. Where there is no nomination: 
+• Shares held in Demat mode; 
+
+--- Page 15 ---
+ 15
+Where value of the shares does not exceed Rs. one lac, one or 
+more of the following documents is to be furnished to the DP; 
+9 Notarized copy of the death certificate 
+9 Transmission Request Form(TRF) 
+9 Affidavit – to the effect of t he claim of legal ownership to the 
+shares, 
+9 Deed of indemnity – Inde mnifying the depository and 
+Depository Participants (DP) 
+9 NOC* from legal heir(s), if applicable or family settlement deed 
+duly executed by all legal heir s of the deceased beneficial 
+owner 
+ 
+Where value is more than Rs. one lac, the DP may additionally 
+insist on one or more of the following documents 
+9 Surety form 
+9 Succession certificate 
+9 Probated will 
+9 Letter of Administration 
+ 
+• Shares held in Physical mode: 
+The RSTA may insist on one or more of the following documents; 
+9 Original Share certificates. 
+9 Duly filled Transmission Request Form (TRF). 
+9 Notarized copy of the death certificate. 
+9 Succession certificate or 
+9 Probate or letter of administr ation duly attested by Court 
+Officer or Notary 
+9 Copy of PAN card 
+ 
+* In case of multiple successors, NOC from non-applicants shall be recorded 
+on the share transmission form of the applicant instead of insisting separate 
+share transmission form from each of the successors. 
+ 
+Time line for transmission: Shares in physical form are required 
+to be transmitted within one month of receipt of complete set of 
+requisite documents. Shares in demat form are required to be 
+transmitted within seven days of receipt of complete set of 
+requisite documents by the DP. 
+ 
+f. How to apply for duplicate sh are and debenture certificate(s): 
+You can request the company to issue duplicate share / debenture 
+certificate(s), if your certificates are lost / defaced / tampered. You 
+have to make a request to the company with an undertaking that 
+you have not sold / disposed off these shares / debenture to any 
+third party and enclose the following documents: 
+ 
+When the value of shares is Rs.10,000/- or above: 
+
+--- Page 16 ---
+ 16
+ 
+S.No. By Registered share/ 
+debenture holder 
+By unregistered transferee/holder 
+in due course 
+1 Indemnity by registered 
+holder 
+Indemnity by unregistered 
+transferee/holder in due course 
+2 General purpose Indemnity 
+3 Copy of FIR/police complaint/court in junction order/copy of plaint where 
+the Suit filed has been accepted by the Court and Suit No. has been 
+given, which shall necessarily hav e details of dat e of loss, DRNs, 
+certificate numbers. 
+4 Letter from buyer under provisions of Section 108 of Companies Act, 
+1956 
+5 - Affidavit by transferee 
+6 - Indemnity by transferee for issue of 
+duplicates without transfer deeds 
+ 
+ 
+When the value of shares is less than Rs.10,000/-*: 
+ 
+S.No. By Registered share/ 
+debenture holder 
+By unregistered transferee/holder 
+in due course 
+1 Affidavit Indemnity 
+2 General purpose Indemnity 
+3 Letter from buyer under provisions of Section 108 of Companies Act, 
+1956 
+4 - Affidavit by transferee 
+5 - Indemnity by transferee for issue of 
+duplicates without transfer deeds 
+* an advertisement has to be issued in a widely circulated newspaper by the 
+company, the cost for which will have to be borne by the investor. 
+ 
+In case of a third party stop transfer (“third party” does not include 
+genuine bonafide transferee) final court order is required for issue 
+of duplicate shares. 
+ 
+Time line for transfer: Listed companies are required to issue 
+duplicate certificates six wee ks from lodging the aforesaid 
+documents. 
+ 
+You may also refer to SEBI circular dat ed May 9, 2011 for detailed procedure to 
+obtain duplicate share certificates. 
+ 
+g. Unclaimed dividend and Uncl aimed interest and redemption 
+payment on Debentures 
+The unclaimed dividends and interest and redemption on 
+debentures are maintained by the company in a separate account 
+
+--- Page 17 ---
+ 17
+upto 7 years. During this period y ou can claim the same by writing 
+to the company. 
+ 
+Beyond 7 years, the amount is transferred to the Investor Education 
+and Protection Fund (IEPF) of the Ministry of Corporate Affairs 
+(MCA). For further details in this regard, you may like to visit the 
+website of MCA, whose weblink is given below 
+http://www.iepf.gov.in/default.asp 
+ 
+ 
+h. Selling / surrendering your shares: 
+Shares, unlike debentures, are not redeemed by the company and 
+therefore, you cannot surrender your shares to the company for 
+redemption. Therefore, to encash y our shares you will have to find 
+a willing buyer. Stock exchanges bring such seller and buyers 
+together. You can sell your shares and also debentures (before its 
+redemption) through member s of stock exchange ( broker). For 
+more details in this regard please refer to SEBI’s beginners guide to 
+secondary markets. 
+ 
+i. Stock split 
+Stock split refers to split the face value of the shares of companies. 
+Accordingly, in 1:10 split, shares of Rs. 10 face value may be 
+reduced to face value of Rs. 1. In such case, you will have 10 times 
+the initial number of share held. However, in such scenario, the 
+price of the shares would also fall proportionately sp lit but the total 
+value of your holding remains the same. This mean more number 
+of shares are available for invest ors. This is illustrated in table 
+below. 
+ 
+Face value of 
+the share 
+Number of 
+shares 
+initially held 
+Number of 
+shares 
+after the 
+split 
+ 
+Share 
+price* 
+ 
+ 
+(Rs.) 
+Total value 
+of shares 
+held 
+(Rs.) 
+Rs. 10 1 0 100 100
+Rs. 5 0 2 50 100
+Rs. 2 0 5 20 100
+Rs. 1 0 10 10 100
+* Share price may differ based on the demand and supply factors in the market. 
+ 
+Change in face value of shares only changes its denomination, without any 
+change in its total value. Illustratively , the value of your money held remains 
+the same whether you hold 1 thous and rupee note or 2 five hundred rupee 
+notes or 10 hundred rupee notes or 20 fifty rupee notes. Accordingly, the 
+
+--- Page 18 ---
+ 18
+capital of the company also remain s unchanged after the stock split as 
+illustrated in table below 
+ 
+ABC company Before stock 
+split 
+After 1:10 stock 
+split 
+Number of shares issued 100 1,000
+Face value of shares issued Rs. 10 Rs. 1
+Equity capital Rs. 1,000
+(100 shares X 
+Rs. 10)
+Rs. 1,000
+(1,000 shares X 
+Rs. 1)
+Reserves (accumulated profits) Rs. 12,000 Rs. 12,000
+Net worth (Equity + Reserves) Rs. 13,000 Rs. 13,000
+ 
+As a shareholder you are entitled to rece ive additional shares on account of 
+the split, as and when it is propos ed by the board of directors and approved 
+by shareholders in general meting of the company. These are credited to your 
+demat account. In case of physica l certificates, depending on the board 
+resolution, you may have to surrender y our existing certificates and the new 
+certificates with the changed face value will be issued to you. 
+ 
+Points to remember: 
+• Equity shares, like any other asset, derive their value from 
+the price at which others are wi lling to buy or sell it. In the 
+absence of willing buyers / sellers, shares of a company can 
+become illiquid. The risk of illiqui dity is inherent in investing 
+in shares over which SEBI does not have any control. 
+ 
+• You will earn return on your in vestment in shares only if the 
+company performs well. Unlike bank deposits, there are no 
+guaranteed returns in investing in shares. 
+ 
+• In some instances the prom oter of the company or an 
+acquirer or the company himself may want to buy the shares 
+of the company to increase their shareholding or buy back 
+shares to enable delisting t he company from the stock 
+exchange. In such cases, they are required to make an open 
+offer to buy shares from all the shareholders. You have the 
+option to tender your shares in response to such offers. You 
+will receive money from the ac quirer, if your shares are 
+accepted. Please also see ‘ Offer for takeover, buyback and 
+delisting (Corporate Restructuring)’ under the section ‘Rights 
+as a shareholder. 
+ 
+4. Rights: 
+ 
+a. As a shareholder: 
+
+--- Page 19 ---
+ 19
+ 
+i. Dividend: As a shareholder, it is your foremost right to 
+receive your share in t he earnings of the company 
+distributed as dividend to the shareholders. The decision to 
+either pay out the earnings or to retain is the prerogative of 
+the board of directors/ m anagement of the company. 
+Therefore, declaration of dividend does not fall within the 
+regulatory purview of SEBI. 
+ 
+However, once it is declared by the board of directors and 
+approved in Annual General Meeting, all registered 
+shareholders as on the record date fixed for the dividend are 
+automatically eligible to rece ive dividend. Dividend payment 
+is required to be dispatched (or electronically credited) to all 
+shareholders, within 30 days of its declaration, as per 
+Companies Act. 
+ 
+Dividend Yield: The dividend per share di vided by its market 
+price is its dividend yield. 
+ 
+Illustratively, consider a company with shares of Rs. 10 face 
+value, declaring dividend of Rs. 3 per share. If its share price 
+is Rs. 30, then the dividend yi eld is 10% (3 / 30). As a 
+percentage of its face value, th e dividend rate in this case 
+would 30% (3 / 10) 
+ 
+Physical shareholders: Dividend payment is directly credited 
+to bank account electronically, wherever such facility is 
+available. In all the other ca ses, the RSTA dispatches the 
+dividend warrant by post 
+ 
+Demat shareholders: The bank details given in your demat 
+account is used to directly credit dividend to your bank 
+account electronically, wherever su ch facility is available. In 
+all the other cases, the RSTA dispatches the dividend 
+warrant by post 
+ 
+Announcement of Dividend: The following information 
+about dividend are available on the websites of stock 
+exchange(s) (http://www.nseind ia.com/> Corporates & 
+http://www.bseindia.com/ > Corporates) 
+ 
+• Proposal in the agenda of th e meeting of the company’s 
+board of directors to declare (interim / final) dividend 
+• Board approval / disapproval of proposed dividend (as 
+part of decisions of the Board meeting) 
+
+--- Page 20 ---
+ 20
+• Record Date, Ex-date and Fixed pay date for Dividend 
+ 
+As an alert investor it is your responsibility to monitor these 
+information available in public domain. Please also see the 
+sections Responsibilities and General information about 
+companies for more information in this regard. 
+ 
+Interest on delayed dividend: In case the company delays 
+despatch of your dividend pay ment beyond 30 days of its 
+declaration, you are entitled to receive the simple interest @ 
+18% p.a. In case of non receip t of the intere st for delay 
+beyond 30 days, you may approach compliance 
+officer/company of the company to claim the interest. 
+ 
+Unclaimed Dividend are maintained by the company in a 
+separate account upto 7 years. During this period you can 
+claim the same by writing to the company. 
+ 
+Beyond 7 years, the amount is transferred to the Investor 
+Education and Protection Fund (IEPF) of the Ministry of 
+Corporate Affairs (MCA). For fu rther details in this regard, 
+you may like to visit the websit e of MCA, whose weblink is 
+http://www.iepf.gov.in/default.asp 
+ 
+ii. In a Bonus Issue , the company issues new shares to its 
+existing shareholders out of accu mulated profits. As the new 
+shares are issued out of the company’s accumulated 
+retained profits (reserves), shareholders need not pay any 
+money to the company for receiving the new shares. 
+ 
+The net worth (owner’s money) of a company consist of its 
+equity capital and its reserves. After a bonus issue, there is 
+an increase in the equity ca pital of the company with a 
+corresponding decrease in the reserves, whereas the net 
+worth remains constant. In a bonus issue of 5:1 ratio, you 
+will receive five new shares of the company for each share 
+you held as illustrated below. 
+ 
+ABC company Before bonus 
+issue 
+After (1:5) 
+bonus issue 
+Number of shares issued (face 
+value of Rs. 10) 
+100 600 
+(100+500)
+Equity capital Rs. 1,000 Rs. 6,000 
+(1,000+5,000)
+Reserves (accumulated profits) Rs. 12,000 Rs. 7,000
+(12,000-5000)
+
+--- Page 21 ---
+ 21
+Net worth (Equity + Reserves) Rs. 13,000 Rs. 13,000
+ 
+As a shareholder you are entit led to receive bonus shares, 
+as and when it is announced by t he board of directors of the 
+company and approved in the Annual General Meeting. 
+ 
+iii. Rights issue (RI): When a company raises funds from its 
+existing shareholders by selling (i ssuing) them new shares / 
+debentures, it is called as rights issue . As a shareholder 
+you are entitled to participate in rights issue. 
+ 
+Existing shareholders are entitled to apply for rights shares 
+in proportion to the number of shares already held. 
+Illustratively, in a rights issue of 1:5 ratio, you have the right 
+to subscribe to one (new) shar e of the company for every 5 
+shares held by you. 
+ 
+The offer document for a right s issue is called as the Letter 
+of Offer (also available in the w ebsite of stock exchanges) 
+and the issue is kept open for 30 -60 days. As a shareholder, 
+you can participate in the rights issue even if you have not 
+received the letter of offer, by applying on plain paper by 
+giving filling the following details 
+ 
+a. Name 
+b. Address 
+c. Bank details including MICR / RTGS / IFSC 
+code 
+d. Folio Number / 16 digit demat account number 
+e. Number of Equity shares held on record date 
+f. Number of Equity shares offered by the 
+company 
+g. Number of Equity shares accepted 
+h. Number of additional equity shares, if any 
+i. PAN number (in case of joint holders, PAN of 
+all holders) 
+j. Form of Renunciation, if renounce(s) is 
+applying 
+ 
+You may renounce offer, if you do not wish to subscribe. 
+ 
+iv. Offer for takeover, buyback and delisting (Corporate 
+Restructuring): 
+Consider the following situations 
+
+--- Page 22 ---
+ 22
+• A promoter along with “per sons acting in concert” 3 
+may want to increase thei r shareholding in a listed 
+company 
+• Persons in control of a company 3 may want to 
+increase their shareholding in the company 
+• A person(s) may want to buy substantial percent of 
+shares of a company so as to acquire control over it 
+from the existing promoter / person in control 
+ 
+In such cases, the “ acquirer” is required to make an 
+announcement and make an open offer to buy shares from 
+all the shareholders of the company. The open offer 
+therefore provides an opportunity to the existing shareholder 
+to exit from the company. 
+ 
+Similarly, open offer is requir ed to be made for buyback of 
+shares or for delisting of s hares of the company form the 
+stock exchange(s). 
+ 
+The intimation of all such offers is conveyed to the all the 
+shareholders through ‘Letter of Offer’. The announcement for 
+the same and the Letter of Offer are available in the website 
+of stock exchanges. 
+ 
+As a shareholder, you can participate in these offers even if 
+you have not received the letter of offer, by applying on plain 
+paper by giving filling the following details / documents 
+ 
+S. No Shares in physical form Shares are in demat form 
+1 Name & address(es) of 1 st named person and of joint holder(s) if any 
+2 Number of shares held 
+3 Number of shares offered / applied 
+4 Registered folio number DP name 
+5 Share certificate numbers 
+6 Distinctive number 
+7 
+Valid transfer deeds and 
+Original Contract Notes 
+issued by the broker through 
+whom you purchased the 
+shares 
+Photo copy of the delivery 
+instruction or counterfoil of the 
+delivery instruction in “Off Market 
+“mode, duly acknowledged by 
+Depository Participant in favor of 
+the special depository account 
+ 
+ 
+3 Person who has subsequently taken control over the company from the promoter 
+
+--- Page 23 ---
+ 23
+The details of open offers announced by th e companies listed on BSE or NSE is 
+available at the weblinks: 
+http://www.bseindia.com/bookbuilding/newbookbuilding.asp?status=l&ir_flag=rev 
+; http://www.nseindia.com/content/ipo/ipo_currentreverse.htm 
+ 
+If you choose to participate in such offer, you will receive the 
+value of your shares from the acquirer, if your shares are 
+accepted. For more details in this regard please refer to 
+SEBI’s beginners guide to ‘Corporate Restructuring’. 
+ 
+v. Annual report: As shareholder of listed company you are 
+entitled to receive its abri dged annual report consisting 
+salient features of Balance Sheet, Profit & Loss a/c and 
+Auditors Report. However, you can get the fu ll annual report 
+by writing to the company. 
+ 
+Annual reports are also ava ilable on the respective 
+company’s website and on t he websites of the stock 
+exchanges (SE), where the company is listed. 
+ 
+ 
+vi. Inspection of books: You can visit the registered office of 
+the company (or any other notifi ed place) where its statutory 
+books are kept, during business hours and inspect books 
+and take copies of the same on payment of nominal fees. 
+The statutory books include Arti cles of Association and 
+Memorandum of the company, Register of Members 
+(shareholders), Register of Directors, Register of 
+Shareholding of Directors, Regist er of Contracts, Register of 
+companies and firms in which Directors are interested, 
+Annual Reports, Minutes of the General Meeting. 
+ 
+ 
+vii. To attend and vote at General Meetings: You are entitled 
+to receive the notice for A nnual General Meeting (AGM) / 
+Extraordinary General Meet ing (EGM) along with the 
+explanatory statement of any special business proposed to 
+be discussed. As a responsible inve stor, it is in your interest 
+to read all the explanatory st atements before attending the 
+meeting. You also have the right to raise queries on 
+remuneration of the Directo rs, accounts or any other 
+business placed before the General Meetings. 
+ 
+You can raise queries at t he AGM / EGM for further 
+explanation. If you are not able to attend AGM / EGM, 
+appoint a proxy to attend and vote on your behalf at the 
+
+--- Page 24 ---
+ 24
+meeting. If you are appointing a proxy, fill the proxy form 
+forwarded to you along with t he notice and submit to the 
+company within the time prescribed. 
+ 
+viii. Collective rights: As a group, with requisite majority 
+(generally, 10% of total share capital of company), you can 
+demand for a poll on any resolution or can apply for the 
+winding up of the company or can apply to Company Law 
+Board (CLB) 
+ to call for or to dire ct holding an AGM / EGM 
+ to investigate the af fairs of the company 
+ for relief in cases of oppr ession and / or mismanagement 
+ 
+ix. Liquidation benefits: If the company in which you are a 
+shareholder is liquidated, you are the entitled for liquidation 
+benefits to the proportion of your holding. The assets of the 
+company, including land, plant a nd machinery etc is sold by 
+the Court appointed liquidator and the proceeds are paid first 
+to the secured and then to the unsecured creditors. The 
+residual amount, if any, is paid to the shareholders 
+proportionately. As a shareholder it is your right to receive 
+this liquidation benefit. Please also see ‘Companies under 
+liquidation / winding up’ un der the section ‘general 
+information on companies’. 
+ 
+b. As a debenture / bond holder: 
+ 
+i. Receipt of interest and redemption: You are entitled to 
+receive interest and redemption amount on the due date. In 
+case of delay in payment you are entitled to interest on 
+delayed payment as per the rate prescribed in the offer 
+document, if any. 
+ 
+If you have communicated your bank details 4, to the RSTA 
+of the company, then the dividend payment would be directly 
+credited to your bank account electronically5. In all the other 
+cases, company should dispatch the physical warrants by 
+post. 
+ 
+ii. Half Yearly Communication: You are entitled to receive a 
+communication about the debenture / bonds from company, 
+countersigned by the debenture trustee ( DT). This 
+communication must include th e details of credit rating, 
+ 
+4 Bank account number, IFSC code, MICR code etc. 
+5 Electronic mode of fund transfer include, 1) ECS – Electronic Clearing Service 2) NEFT – National 
+Electronic Fund Transfer 
+
+--- Page 25 ---
+ 25
+asset cover available, status of security, debt equity ratio, 
+due date of the previous payment of interest / principal and 
+the status of payment, due dat e of the next payment of 
+interest / principal and whether or not it would be paid. 
+ 
+iii. Inspection of books: You can visit the registered office of 
+the company, where its statutory books are kept, during 
+business hours and inspect boo ks and take copies of the 
+same on payment of nominal fees. The statutory books 
+include debenture trust deed, regi ster of charges created on 
+the company’s assets, register of debenture holders. 
+ 
+iv. Default and rollover : In the even of default in payment of 
+interest or redemption, the DT is required to invite you to the 
+meeting of debenture holders. Further in the event of rollover 
+of debentures, you have the right to redeem your investment 
+if you do not with to rollover your investment. 
+ 
+v. Collective rights: If the company defaults on the interest or 
+redemption payment, you can apply to CLB with the requisite 
+majority (generally, 10% of total share capital of company) 
+seeking winding up of the com pany. You can also approach 
+the DT to call for meeti ng of debt instrum ent holders, when 
+your interest is affected. 
+ 
+ 
+5. Responsibilities: 
+ 
+a. Monitor your Investments: Unlike returns from bank deposits, 
+which are guaranteed, returns from in vestment in equity shares are 
+subject to performance of the co mpany, risks of the market. You 
+will earn returns only if the company in which you have invested is 
+consistently competitive. Therefore, it is impor tant to monitor your 
+investments, including investm ent in debentures regularly and 
+make informed decisions and or review them periodically. To 
+facilitate this, listed companies are mandated to provide vast 
+amount of information in the public domain through the website of 
+stock exchange, including the following. 
+ 
+ Board Meetings : The board of directors of companies meet 
+quarterly to review the performance of the company and to take 
+decisions on future plans. Agenda to such meetings may also 
+contain 
+I. Proposal for declaration of dividend 
+II. Proposal for declaration of bonus 
+
+--- Page 26 ---
+ 26
+III. Proposal for issue or change in share capital including 
+rights, preference, ADR / GDR, Foreign Currency 
+Convertible Bond (FCCB) i ssues and private placement, 
+conversion of debt instruments. 
+IV. Proposal for Corporate re structuring - Amalgamation, 
+Mergers, Takeover of anot her company, Buy Back of 
+shares, Delisting, Demerger, etc. 
+V. Proposal for share split, consolidation etc. 
+ 
+ Decision of Board Meetings: Post these meetings, information 
+on recommendation of the board on th e following is available in 
+the website of stock exchanges 
+I. Decision on declaration of dividend 
+II. Decision on declaration of bonus 
+III. Decision on issue or change in share capital including 
+rights, preference, ADR / GDR, Foreign Currency 
+Convertible Bond (FCCB) i ssues and private placement, 
+conversion of debt instruments. 
+IV. Decision on Corporate rest ructuring - Amalgamation, 
+Mergers, Takeover of anot her company, Buy Back of 
+shares, Delisting, Demerger, etc. 
+V. Decision on share split, consolidation etc. 
+ 
+ 
+ Announcements pertaining to the follo wing are also available 
+in public domain 
+I. Record date and Ex-date for the corporate actions like 
+dividend, bonus, rights issue etc. 
+II. Decision on corporate rest ructuring proposals at AGM / 
+EGM 
+III. Buyback / Takeover / Delisting open offers along with 
+price, terms and other conditions 
+ 
+ Annual reports: It provides information on the activities of the 
+company during financial year and it contains 1) audited 
+financial statements, 2) auditors report, 3) directors’ report 
+including future plans and prospects, and compliance report on 
+the corporate governance and 4) management discussion and 
+analysis. 
+ 
+ Financial Results : Apart from (audited) financial results, the 
+(un audited) quarterly financial resu lts and financial results of 
+subsidiary of listed companies are available in websites of stock 
+exchange. 
+ 
+
+--- Page 27 ---
+ 27
+ Shareholding pattern : Various classes of securities and 
+various categories of shareholder s like promoters / persons in 
+control of the company and their associates, financial 
+institutions, FIIs, retail and high networth individuals etc are 
+disclosed and updated on quarterly basis. 
+ 
+ Change in shareholding of promoters / directors : The 
+shareholding of 1) promoters / persons in control of the 
+company (including their associ ates), 2) directors 3) top 
+management 4) persons holding significant percentage of 
+company’s shares is of strategi c importance to other investors. 
+Any change in their ho lding is of significance and signal to the 
+other investors. Accordingly, wherever there is a change in their 
+holding, beyond certain stipulat ed percentage of the company’s 
+equity, it is disclosed in the stock exchange website (disclosures 
+under Takeover and Insider trading regulations). 
+ 
+Further, the details of the locked in and pledged shares of the 
+promoters / persons in control of the company are also available 
+on the SE websites. 
+ 
+ 
+ Debentures / Bonds : The credit rating, availability of 100% 
+asset cover, debt equity ratio, re vision in credit rating, default / 
+expected default in payment of interest / redemption of debt 
+securities or failure to creat e charge on assets, alteration in 
+terms of redemption are availa ble to facilitate informed 
+decisions. 
+ 
+ The following Company operations related information are 
+also available in the stock exchange websites 
+I. Appointment / Resignation / Removal / Death of Key 
+management personnel 
+II. Variation between the utilisati on of proceeds and profitability 
+projected in the Offer Document against the actual 
+III. Information having bearing on performance / operations of 
+the company and or affecting the interests of equity and debt 
+holders 
+IV. Signing contracts / delay in ex ecution of contracts etc., which 
+have impact on financial performance of the company 
+V. Company updates 
+ 
+ 
+ Other information available: 
+I. Compliance report on Corporate Governance 
+II. Date of AGM/EGM along with Record date 
+
+--- Page 28 ---
+ 28
+III. Scheme / petition pr oposed to be filed before any court or 
+tribunal 
+IV. Alterations in the terms regar ding redemption / cancellation / 
+retirement of any security 
+V. Details of depository receipts (DR) 
+VI. Offer of ESOPs to employees / directors 
+VII. Issue of shares (equity /preference) on exercising ESOP 
+ 
+The aforesaid information / disclosures available in the websites of 
+stock exchanges enables you to moni tor your investment decisions 
+regularly. 
+ 
+http://www.nseindia.com/> Corporates 
+http://www.bseindia.com/ > Corporates 
+ 
+b. Intimation of change in address or bank account: Please refer 
+to the section on ‘Managing your investment in securities’. 
+ 
+c. Be alert to any public announcem ents about the companies that 
+you have invested in. 
+ 
+d. Actively participate in the affa irs of the company by regularly 
+attending its General Meetings a nd voting appropriately. Read the 
+Annual Report and enclosed explanat ory statements, if any, before 
+attending General Meetings 
+ 
+ 
+6. General information about companies 
+ 
+a. Status 
+ 
+i. Whether or not listed in stock exchange? 
+ 
+The details of companies whose shares are listed on BSE and NSE 
+are available in their website at the following web links: 
+BSE: 
+http://www.bseindia.com/about/list_comp.asp (or) 
+http://www.bseindia.com > Corporates > Active Companies 
+ 
+NSE: 
+http://www.nseindia.com/content/equities/eq_secavailable.htm (or) 
+http://www.nseindia.com/ > Corporates > Securities Information 
+ 
+ 
+ii. Status of listing 
+1. Suspended companies 
+
+--- Page 29 ---
+ 29
+The trading of securities may be suspended by the stock exchange 
+on the following grounds; 
+a) Non compliance with listing agreement. etc. (Agreement 
+executed between company and t he stock exchange before it 
+get listed; it contains vari ous disclosure requirements and 
+obligations on the company to protect the interests of the 
+investors), 
+b) Surveillance reasons (price or volume manipul ation, insider 
+trading etc.) 
+c) Non payment of listing fees 
+ 
+ 
+As the company’s shares are sus pended from trading, it will not be 
+possible for you to trade in these shares through the Stock 
+Exchange. 
+ 
+The details of the securities suspended from trading are available in 
+the website of BSE and NSE at the following web links 
+BSE: 
+http://www.bseindia.com/about/datal/suspend.asp (or) 
+http://www.bseindia.com/ > Listed Companies > Suspended 
+Companies 
+ 
+NSE: 
+http://www.nseindia.com/content/equities/eq_secavailable.htm (or) 
+http://www.nseindia.com/ > Corporates > Securities Information 
+ 
+ 
+2. Delisted companies 
+Shares of the company may be de listed from the stock exchange 
+on either of the following ground; 
+i) Non fulfillment of listing agreement 
+ii) Voluntary Delisting - com pany makes an application to 
+the stock exchange to remove its shares from the list of 
+traded shares 
+iii) Delisted by Operation of Law (to comply with any Act, 
+Rule, Regulations, Order of the Court etc.) 
+ 
+As the shares of the company ar e no longer listed on the stock 
+exchange, it will not be possible for you to trade in these shares 
+through the Stock Exchange. You will be able to encash the value 
+of your shares if you are able to otherwise find a willing buyer for 
+your shares. 
+ 
+The list of delisted companies is av ailable in the websites of BSE 
+and NSE at the following web links 
+
+--- Page 30 ---
+ 30
+BSE: 
+http://www.bseindia.com/about/datal/delist/a-delist.asp (or) 
+http://www.bseindia.com/ > Corporates - Listed Companies – 
+Delisted Companies 
+ 
+NSE: 
+http://www.nseindia.com/content/equities/eq_secavailable.htm (or) 
+http://www.nseindia.com/ > Corporates > Securities Information 
+ 
+In the case of voluntary delisting, the company is required to make 
+an open offer to the shareholder to buy their shares. You have the 
+option to tender your shares in such offer. Please see ‘offer for 
+substantial acquisition of shares, buyback and delisting’ under the 
+section ‘Rights as a shareholder’ 
+ 
+iii. Vanishing company 
+ 
+The following are the conditions for declaring a company as ‘Vanishing’ 
+Company 
+• Failed to file returns with Regi strar of Companies (ROC) for a 
+period of two years 
+• Failed to file returns with stock exchange for a period of two years 
+(if it continues to be a listed company) 
+• It is not maintaining its register ed office of the company at the 
+address notified with the Registrar of Companies / stock exchange 
+and 
+• None of its Directors are traceable 
+ 
+The list of ‘Vanishing’ companies is available in the web site of Ministry 
+of Corporate Affairs at the following web link 
+http://www.mca.gov.in/Ministry/vanishing.html (or) 
+http://www.mca.gov.in/ > Information & Reports – Vanishing 
+Companies 
+ 
+iv. Sick company 
+ 
+A company whose net worth (equity capital + retained earnings) is 
+eroded (sick company) can refer itself to the Board of Industrial 
+Finance and Reconstruction ( BIFR) for availing reha bilitation. Once 
+registered with BIFR, the company is immune from any further action 
+by its creditors, including its debenture holders. 
+ 
+The details and status of companies that are registered with BIFR as 
+are available in the website of BIFR at the following web link 
+http://www.bifr.nic.in/asp/search.asp (or) 
+http://www.bifr.nic.in/ > Online Case Status 
+
+--- Page 31 ---
+ 31
+ 
+ 
+v. Companies under liquidation / winding up: 
+ 
+The details / status of companies under liquidation / winding up are 
+available on the website of Ministry of Corporate Affairs at the following 
+web link 
+http://www.companyliquidator.gov.in/liquidation_pocess.html (or) 
+http://www.companyliquidator.gov.in/ > Liquidation Process 
+ 
+The address of the official liquidator is also available in the website at 
+the following web link 
+http://www.companyliquidator.gov.in/HQContact.htm (or) 
+http://www.companyliquidator.gov.in/ > About Us – Official Liquidators 
+ 
+Please also see ‘Liquidat ion benefits’ under the section ‘Rights as a 
+shareholder’ 
+ 
+ 
+b. Change in company name 
+ 
+During the course of the time, the company may change its name. 
+Details of such changes are available in the websites of BSE or NSE at 
+the following web links 
+BSE: 
+http://www.bseindia.com/about/datal/change/changes.asp (or) 
+http://www.bseindia.com/ > Corporates – Change of Company name 
+ 
+NSE: 
+http://www.nseindia.com/content/equities/eq_secavailable.htm (or) 
+http://www.nseindia.com/ > Corporates > Securities Information 
+ 
+ 
+c. Director’s details 
+ 
+The details of directors of companies are available in the website of 
+Ministry of Corporate Affairs at the following web link 
+ 
+http://www.mca.gov.in/DCAPortalWeb/dca/MyMCALogin.do?method=s
+etDefaultProperty&mode=12 or 
+http://www.mca.gov.in/ > MCA 21 > Access Public Documents – View 
+Public Documents 
+ 
+ 
+d. Trading details 
+ 
+
+--- Page 32 ---
+ 32
+The opening, high, lo w and closing price of a s hare, number of shares 
+traded, value of shares traded etc during the day and also their historic 
+data over a period are av ailable in the websites of BSE and NSE as 
+under 
+ 
+NSE: http://www.nseindia.com/ 
+BSE: http://www.bseindia.com/ 
+ 
+Please remember, trading of shares in the market is the outcome of 
+many factors, includ ing demand and supply. E quity shares, like any 
+other asset, derive their value from the price at which others are willing 
+to buy or sell it. In the absence of willing buyers / sellers, the shares 
+become illiquid. The risk of illiquidity is inherent in investing in shares 
+over which SEBI does not have any control. 
+ 
+ 
+e. Financial Results 
+Financials results of listed companies are available in the Corp Filing 
+website whose web address is as under 
+http://www.corpfiling.co.in/home/homepage.aspx (or) 
+http://investor.sebi.gov.in/ > Corporate Filing 
+ 
+Besides, they are also available in the websites of stock exchange in 
+the following web links 
+ 
+http://www.nseindia.com/ > Corporates 
+http://www.bseindia.com/ > Corporates 
+ 
+ 
+7. Where can I file my grievance? 
+ 
+The matters dealt by various regulators are given below: 
+ 
+Matters pertaining to Regulator For further details, visit their 
+website at 
+Companies whose securities 
+are listed on Stock Exchanges 
+Ministry of Corporate 
+Affairs / Securities and 
+Exchange Board of India 
+http://www.mca.gov.in/ 
+www.sebi.gov.in 
+1. Stock broker, Sub broker, 
+Merchant bankers, 
+Depository participants, 
+Registrar to Issue, 
+Debenture trustee, Stock 
+exchanges, Depositories 
+or any other intermediary 
+registered with SEBI 
+2. Takeover offers, Buyback 
+offer or Delisting offer 
+3. Manipulation of price or 
+Securities and Exchange 
+Board of India 
+www.sebi.gov.in 
+
+--- Page 33 ---
+ 33
+volume of securities listed 
+on Stock exchange 
+4. Mutual Funds 
+Banks deposits and banking 
+Deposits with Non Banking 
+Financial Companies (NBFC) 
+and NBFC and NBFC 
+Reserve Bank of India http://www.rbi.org.in/home.aspx
+ 
+Deposits with manufacturing 
+companies 
+Unlisted companies 
+Mergers / Amalgamations 
+Ministry of Corporate 
+Affairs 
+http://www.mca.gov.in/ 
+ 
+Insurance products and 
+service 
+Insurance Regulatory 
+Authority of India 
+http://www.irdaindia.org/ 
+ 
+Commodities Forward Market 
+Commission 
+http://www.fmc.gov.in/ 
+ 
+Pension fund Pension Fund Regulatory 
+and Development 
+Authority 
+http://www.pfrda.org.in/ 
+ 
+Monopoly and anti competitive 
+practice 
+Competition Commission 
+of India 
+http://www.cci.gov.in/ 
+ 
+ 
+ 
+a. Against listed companies 
+Most listed companies outsource t he back office work pertaining to 
+shares to a specialized entity ca lled Registrar and Share Transfer 
+Agent ( RSTA). RSTAs are registered with SEBI and perform 
+various functions pertain to the listed company; 
+ 
+ 
+In case of any complaint pertaining to the companyyou can 
+approach the RSTA of the company with the relevant documents 
+for redressal. 
+ 
+The address of RSTA of the com panies listed on BSE and NSE is 
+available in the websites at the following web links; 
+BSE: 
+http://www.bseindia.com/bseplus/StockReach/AdvanceStockReach
+.aspx?scripcd=500002 (or) 
+http://www.bseindia.com/ >> Get Quote (type the company name 
+and select the company from list, if any) >> Filing & other info 
+ 
+NSE: 
+http://www.nseindia.com/content/corporate/corp_introduction.htm 
+(or) http://www.nseindia.com/ > Corporates - Corporate Information 
+ 
+You can also directly approach the Compliance Officer / Company 
+Secretary of a listed company fo r redressal of your issue / 
+complaint. In such case you can send your grievance to the 
+company at its dedicated e-mail addr ess, which is made available 
+
+--- Page 34 ---
+ 34
+exclusively for investor complaints. The details of the company 
+address, email ID of the compani es listed on BSE or NSE are 
+available at the weblinksprovided below: 
+http://www.bseindia.com/mktlive/contactinformation.asp ; 
+http://www.nseindia.com/content/corporate/corpinfo.htm 
+ 
+Remember, 
+• You can escalate your grievance to the ‘ Grievance 
+Redressal Cell ’ of the stock exchange, in case it is not 
+redressed within a reasonable time. 
+• Status of all investor comp laints against listed companies 
+and brokers are available in the website of the stock 
+exchanges. 
+ 
+b. Against Registered intermediaries 
+ 
+All intermediaries registered wit h SEBI are required to appoint a 
+compliance officer to redress in vestor grievances. Besides, 
+intermediaries are required to hav e a dedicated e-mail address, 
+which is made available exclusively for investor complaints. The 
+contact details including email ID dedicated for investor grievances 
+are available in the SEBI website (www.sebi.gov.in). 
+ 
+Complaints against members of stock exchange ( broker) or their 
+sub brokers can be escalated to the respective stock exchange. 
+Similarly, complaints against DPs can be escalated to the 
+respective Depository. For more details on investor grievance 
+against DP / demat account, please see ‘investor grievances’ under 
+the section ‘Dematerialization of ’Securities at section 2. 
+ 
+The contact details of all the in termediaries registered with SEBI 
+are available in the SEBI website (www.sebi.gov.in). The categories 
+of intermediaries registered with SEBI against whom investors can 
+file their grievances and their Se lf Regulatory Organizations (SRO) 
+to whom the grievance can be escalated, is given in next section. 
+ 
+c. Escalation of complaints to SEBI 
+ 
+SEBI has a comprehensive mechanism to facilitate redressal of 
+investor’s grievances against com panies listed in stock exchanges 
+and against registered intermediaries. 
+ 
+Complaints of the following nature can be escalated to SEBI, if your 
+grievance is not redressed by the listed company and subsequently 
+by the stock exchange , within a reasonable time: 
+
+--- Page 35 ---
+ 35
+• Non receipt or delay or shortfall pertaining to refunds or 
+allotment of shares or debentures in public issues 
+• Non receipt or delay or shortf all of dividend, interest and 
+redemption payments 
+• Non receipt of share and bond certificates after transfer, 
+transmission, conversion, end orsement, consolidation, 
+splitting, bonus, rights and request for duplicate certificates 
+• Interest on delayed refund an d interest and redemption 
+payment on debentures / bonds 
+• Non compliance to Listing Agreement 
+• Corporate governance related 
+• Corporate Restructuring (Takeover, buyback and delisting of 
+shares only) 
+ 
+Complaints against the following intermediaries can be 
+escalated to SEBI if the entit y, do not redress it within a 
+reasonable time; 
+ 
+ASBA service provider (Banks) Fo reign Institutional Investors 
+Banker to the Issue Merchant Bankers 
+Brokers & sub brokers Mutual Funds 
+Clearing Corporation Portfolio Managers 
+Collective investment scheme Regist rars and Share Transfer Agents (RSTA)
+Credit Rating Agencies Securiti es lending intermediaries 
+Custodians Stock Exchange 
+Debenture Trustees Syndicate Member s in public issues (brokers) 
+Depositories Venture Capital Funds 
+Depository Participants (DP) - 
+ 
+ 
+d. Grievance Redressal mechanism at SEBI 
+ 
+The Office of Investor Assistance and Education (OIAE) of SEBI 
+is the single window interface, in teracting with investors seeking 
+redressal / assistance. You can lodge complaint with SEBI in 
+any of the following modes: 
+ 
+ Visit http://www.scores.gov.in/ 
+ Visit SEBI Office (s) 
+ Letter to SEBI 
+ 
+All complaints received by SEBI are individually acknowledged with 
+unique number. 
+ 
+ 
+ 
+
+--- Page 36 ---
+ 36
+SCORES: SEBI has launched a new web based centralized 
+grievance redress system called SEBI Complaint Redress System 
+(SCORES). Starting June 8, 2011 all complaints are routed through 
+SCORES. You are therefore reques ted to lodge your complaint, if 
+any, at http://scores.gov.in. All email communication will be 
+considered as general correspondence and not complaint. 
+ 
+SCORES would enable investors to lodge and follow up their 
+complaints and track the status of redressal of such complaints 
+online from the above website from anywhere. This would enable 
+the market intermediaries and listed companies to receive the 
+complaints online from investors against them, redress such 
+complaints and report redressal onli ne. All the activities starting 
+from lodging of a complaint till its closure by SEBI would be online 
+in an automated environment and the status of every complaint can 
+be viewed online in the above website at any time. An investor, who 
+is not familiar with SC ORES or does not have access to SCORES, 
+can lodge complaints in physical form. However, such complaints 
+would be scanned and uploaded in SCORES for processing. 
+ 
+SCORES is web enabled and provi des online access 24 x 7. This 
+has following salient features: 
+• Complaints and reminders ther eon are lodged online at the 
+above website at anytime from anywhere; 
+• An email is generated instant aneously acknowledging the 
+receipt of complaint and al lotting a unique complaint 
+registration number to the comp lainant for future reference 
+and tracking; 
+• The complaint moves online to the entity concerned for its 
+redressal; 
+• The entity concerned uploads an Action Taken Report (ATR) 
+on the complaint; 
+• SEBI peruses the ATR and closes the complaint if it is 
+satisfied that the complaint has been redressed adequately; 
+• The concerned investor can view the status of the complaint 
+online from the above website by logging in the unique 
+complaint registration number; 
+• The entity concerned and the conc erned investor can seek 
+and provide clarification on hi s complaint online to each 
+other; 
+• Every complaint has an audit trail; and 
+• All the complaints are saved in a central database which 
+would generate relevant MIS reports to enable SEBI 
+appropriate policy decisions and or remedial actions, if any. 
+ 
+You can track the status of your complaint in website 
+(www.scores.gov.in) with the acknowledgement number. 
+
+--- Page 37 ---
+ 37
+ 
+Your grievances are taken up with the respective listed companies 
+and intermediaries and are continuously monitored. In cases where 
+the rate of redressal of grievances is not satisfactory the official of 
+the concerned entity is advised to redress the grievances via 
+reminders or meetings. When t he response is inadequate or 
+lacking then enforcement actions including order of debarment of 
+the company, its promoters and directors, suspension of 
+registration of intermediaries, imposition of monetary penalty, 
+launch of prosecution proceedings etc. may be initiated6. 
+ 
+ 
+Disclaimer: 
+• Grievances are not against SEBI perse and hence SEBI does 
+not redress grievances on its own, it only facilitates redressal by 
+taking up the matter with the company / intermediary. 
+• A month’s time is the general norm for redressal of investor 
+grievance. 
+• SEBI’s enforcement actions are in itiated when there is a failure 
+of redressal of grievances in wholesome by the intermediary or 
+the listed company and not for individual grievances. 
+• Investor complaint is one of the cr iteria, but not t he only criteria 
+for ordering inspection or taking enforcement action against the 
+intermediary 
+• In most cases complaints re ferred to SEBI get redressed. 
+However there is no guarantee for redressal for every grievence 
+that is escalated or lodged with SEBI. 
+• Matters pertaining to / involvin g disputes, forgery, fraud and 
+claim from counterparty, are to be settled either through 
+arbitration or Court of law by the complainant. 
+• SEBI does not adjudicate on comp laints and therefore, you are 
+free to avail the legal remedies available to you as per law. 
+• Prevention is better than cure – be an informed investor; please 
+peruse the ‘messages to investors’ in the section below (also 
+available in SEBI investor website to understand your rights and 
+responsibilities. 
+ 
+e. Arbitration: 
+Please see the section on ‘Arbitration’. 
+ 
+f. Consumer redressal fora: You can also approach the consumer 
+redressal fora for any deficiency in service, pertaining to securities 
+market. For further details you may log on to http://ncdrc.nic.in/ or 
+ 
+6 Please also see disclaimer 
+
+--- Page 38 ---
+ 38
+contact National Consumer He lpline number 1800-11-4000 (BSNL 
+& MTNL). 
+ 
+g. Court of Law: In addition to the above, you also have the option of 
+approaching the appropriate court of law to seek remedy for any 
+dispute against an intermediary or listed company. 
+ 
+1. Arbitration: 
+a. What is it? 
+Arbitration is an alte rnate channel available for quick resolution of 
+dispute, instead of approaching the court of law. In case of any dispute 
+with an intermediary or a listed company 7[1] you can opt for its quick 
+resolution through arbitration. 
+ 
+b. For what you can file Arbitration? 
+ 
+Dispute Against Nature of dispute Where to file for 
+Arbitration 
+Brokers (members) Disputes against broker 
+arising out of trades done 
+on the exchange 
+Stock exchange 
+Companies Dispute against company 
+listed in the stock 
+exchange for delay or 
+non transfer of shares & 
+debentures 
+Stock exchange 
+Depository Participants Dis putes against the DP 
+pertaining to the 
+concerned Depository 
+Depositories 
+ 
+ 
+b. How to file for Arbitration 
+You can avail the application fo rm from the stock exchange / 
+depository and file for arbitration along with the suppo rting documents 
+within 3 years of the disputed transaction. 
+ 
+BSE, NSE, CDSL and NSDL have arbi tration centres in each of the 
+four regions of the count ry – namely Mumbai, New Delhi, Kolkatta and 
+Chennai Depending on your place of residence; you can file your 
+application with the concerned centre. 
+ 
+c. For what can you file arbitration? 
+Please refer to the table above. 
+ 
+ 
+7[1] Arbitration at stock exchange against listed companies is available only for dispute pertaining to transfer 
+of securities 
+
+--- Page 39 ---
+ 39
+d. Appointment of arbitrators: 
+Every stock exchange and depository ma intains a panel of arbitrators. 
+You can choose the arbitrator from th is panel. Your counter party (the 
+broker / Company / DP) also has t he option to choose an arbitrator. 
+The name(s) of arbitrators you choose would be forwarded to the 
+broker / company / DP by the ex change / depository for acceptance. 
+In case of disagreement, the ex change / depository shall decide upon 
+the name of arbitrators. The stock exchange ensures appointment of 
+arbitrator within 30 days of receipt of your application 
+ 
+e. Arbitration proceedings: 
+After appointment of arbitr ators, you will be called for hearing before 
+the arbitrators. 
+ 
+If your claim or counter claim is up to Rs.10 lakh and if claim is filed 
+within six months you are not required to deposit any fee with the stock 
+exchange as the expenses is be borne by the exchange. If your claim 
+is Rs. 10 lakh above, you have to deposit the prescribed fee to the 
+exchange and the cost will be recovered fr om either of the parties as 
+decided by the arbitrator. The limitat ion period for filing an arbitration 
+reference is governed by the Law of Limitation i.e. Th e Limitation Act 
+1963. 
+ 
+f. Appeal against arbitration award: 
+In case you are aggrieved by the ar bitral award, you can file an appeal 
+before the appellate panel of arbitrators in the exchange within 30 days 
+from the receipt of arbitral award 
+ 
+The exchange ensures that appointm ent of appellate panel of 
+arbitrators is complete within 30 days. Subsequently, the appellate 
+award is required to be passed wit hin three months, which can be 
+extended by two months. 
+ 
+In case you are still aggrieved, y ou can approach the court of law 
+followed by appeal resting with Supreme Court, if you so desire. 
+ 
+g. Arbitration awards in website: 
+The status of Arbitration awards (o rders) against broker / companies 
+and DPs are made availabl e in the websites of stock exchanges and 
+depositories respectively at the following web link 
+BSE: http://www.bseindia.com/invdesk/invgrievstats.asp 
+NSE: 
+http://www.nseindia.com/content/assist/asst_SEBI_report_home.htm 
+CDSL: http://www.cdslindia.com/publication/sebistatus_reports.jsp 
+NSDL: https://nsdl.co.in/nsdlnews/investors-arbitration-details.php 
+ 
+
+--- Page 40 ---
+ 40
+SEBI Circular reference: You may like to refer the following SEBI 
+circulars, available in SEBI website, for more details in this regard. 
+ 
+• CIR/MRD/DSA/24/2010 dated August 11, 2010 
+• CIR/MRD/DSA/29/20 10 dated August 31, 2010 
+• CIR/MRD/DSA/2/2011 dated February 09, 2011 
+• CIR/MRD/DP/4/2011 dated April 07, 2011 
+
+--- Page 41 ---
+ 41
+Message to Investors 
+ 
+Share & Debenture Holders 
+ (Listed Equity Shares and Debentures) 
+ 
+DOs 
+9 Avail nomination for all y our investments without fail 
+9 Convert your physical certificates in to demat form by opening demat a/c 
+9 Provide your PAN card details in case of transfer / transmission of shares in 
+physical form 
+9 Keep track of your investments on regular basis 
+9 Be alert to any public announcements on the shares of t he companies that 
+you have invested 
+9 Be aware that an intermediary or its staff making a recommendation, is 
+required to disclose their interest/ position in that scrip 
+9 Read the Annual Report and enclosed ex planatory statements, if any, before 
+attending General Meetings 
+9 In case of any grievance, contact the compliance officer of the company / 
+Debenture Trustee (DT) 
+ Be aware that listed companies, R egistrar and Share Transfer Agents 
+(RTA) and DTs are required to have a dedicated Email ID for 
+registering your complaints 
+9 Approach SEBI, if grievance is not redressed by the Company / DT 
+9 Be aware that investor complaints against listed companies are displayed on 
+the website(s) of SE 
+9 Be aware that the details of disposal of arbitrati on proceedings are displayed 
+on the website(s) of SE 
+ 
+ 
+DON’Ts 
+8 Do not invest with borrowed money 
+8 Do not expect unrealis tic / guaranteed returns 
+8 Do not be influenced by advertisement / advices / rumours / unauthentic news 
+promising unrealistic gains and windfall profits in mass media 
+8 Do not be guided by astrological pr edictions on share prices and market 
+movements 
+8 Do not fall prey to market rumours / ‘hot tips’/ ‘opportunity knocks only once’ 
+kind of advice 
+8 Do not be swayed by market sentiments 
+8 Do not invest on any explicit / implicit promises made by anyone 
+8 Do not indulge in impulse investing 
+8 Do not associate in any way with grey market 
+ 
+ 
+ 
+ 
+
+--- Page 42 ---
+ 42
+RIGHTS 
+ 
+As a holder of equity shares: 
+9 To receive share certificates within 
+ 30 days in case of transfer of physical shares 
+ 6 weeks in case of issue of duplicate shares 
+9 To receive dividend payment within 30 days of its declaration 
+9 To receive dividend / interest thr ough ECS / NEFT / RTGS, wherever such 
+facility is available 
+9 To receive simple interest @ 18% p. a. for delay in di vidend payment beyond 
+30 days 
+9 To receive corporate benefits like ri ghts, bonus, split, consolidation etc. 
+9 To receive Letter of Offer in case of 
+ rights issue 
+ substantial acquisition 
+ buyback and 
+ delisting of shares 
+9 To apply on plain paper to Registrar to the Offer in case of non-receipt of 
+Letter of Offer 
+9 To inspect and take copies of 
+ Memorandum and Articles of A ssociation of the company 
+ Register of 
+1. Members 
+2. Directors 
+3. Shareholding of Directors 
+4. Contracts, companies and firms in which Directors are 
+interested 
+ Annual Reports 
+ Minutes of the G eneral Meeting 
+9 To receive abridged Annual Report cont aining salient feat ures of Balance 
+Sheet, Profit and Loss account and Auditors Report 
+9 To receive notices of the General Meetings 
+9 To raise queries on remuneration of t he Directors, accounts or on any other 
+business placed before the General Meeting 
+9 To participate and vote in General M eetings either pers onally or through 
+proxy 
+9 To receive notice along with draft resolution of postal ballot, if any 
+9 As a group, with requisite majority: 
+ To apply to Company Law Board ( CLB) 
+1. to call or to direct the co mpany to call the Annual General 
+Meeting (AGM) / Extra Ordinary General Meeting (EGM) 
+2. to investigate the affairs of the company 
+3. for relief in cases of oppression and / or mismanagement 
+ To demand poll on any resolution 
+ To apply for the winding up of the company 
+9 To proceed against the company by wa y of civil or criminal proceeding 
+
+--- Page 43 ---
+ 43
+9 To receive the residual proceeds in case of winding up 
+9 To file for arbitration in SE, in case of non / delayed transfer of listed security 
+ 
+As a holder of debt instrument: 
+9 To receive debenture certificates trans ferred to your name within 2 months 
+9 To receive redemption proceeds in due time 
+9 To receive interest on delayed payment of interest or redempt ion, if provided 
+in the offer document 
+9 To receive redemption proceeds / interest through ECS / NEFT / RTGS, 
+where such facility is available 
+9 To receive half yearly communication from the Issuer, countersigned by the 
+DT regarding 
+1. credit rating 
+2. asset cover available 
+3. status of security 
+4. debt equity ratio 
+5. due date of the previous payment of interest / principal and the 
+status of payment 
+6. due date of the next payment of interest / principal and whether 
+or not it would be paid 
+9 To inspect and take copies of 
+ Debenture Trust Deed 
+ Register of 
+1. Charges created on the company’s assets 
+2. Debenture holders 
+9 As a group: 
+ To apply to CLB in case of default of redemption 
+ To apply for the winding up of t he company in case of default of 
+redemption 
+ To approach DT for meeting of all debenture holders 
+9 To redeem the debenture / bond, if you do not wish to rollover, in the event of 
+restructuring 
+9 To be invited for meeting of debentur e holders in the event of a default 
+9 To file for arbitration in SE, in case of non / delayed transfer of listed security 
+ 
+RESPONSIBILITIES 
+9 To remain informed and vigilant about your investments 
+9 To peruse disclosures made by the co mpany on SE website(s) including: 
+ Annual reports 
+ Details of the board meetings 
+ Recommendation or declaration of dividend 
+ Particulars of increase / issue / alterations of share capital 
+ Financial results along with details of credit rating, asset cover 
+available, debt equity ratio 
+ Revision of credit rating 
+ Statement of 
+
+--- Page 44 ---
+ 44
+1. shareholding pattern 
+2. details of locked-in shares 
+3. details of shares pl edged by promoter group 
+4. details of depository receipts (DR) 
+5. variation between the utilisat ion of proceeds and profitability 
+projected in the Offer Document against the actual 
+6. compliance report on Corporate Governance 
+ Details of shareholding and acquisition of company’s shares by 
+1. promoters / persons in contro l of the company, including those 
+acting in concert 
+2. directors and top management including their dependents 
+3. persons holdin g more than 5% 
+ Information having bearing on performance / operations of the 
+company and or affecting the interests of security holders 
+ Corporate actions like Mergers, Demergers, Splits and Bonus issue 
+ Scheme / petition proposed to be f iled before any court or tribunal 
+ Information on buyback, substantial acquisition or delisting offers 
+ Information on maintenance of 100% asset cover for listed debt 
+securities 
+ Information on default / expected def ault in payment of interest / 
+redemption of debt securities or failure to create charge on assets 
+ Alterations in the terms regarding redemption / cancellation / retirement 
+of any security 
+9 Intimate change in your address and bank account to 
+ the company, if you hold shares / debentures in physical form 
+ the Depository Participant, if yo u hold shares / debentures in demat 
+form 
+9 Keep track of the changes in rating of debt securities, available on website(s) 
+of credit rating agencies 
+ 
+Disclaimer: The aforesaid information provided as a service to investor(s) and 
+general in nature. It is nei ther a legal interpretation nor a statement of SEBI 
+policy. If you have questions concerni ng the meaning or application of a 
+particular act or rule or regulation or circular, please consult your legal advisor. 
+ 
+ 
+ 
+
+--- Page 45 ---
+ 45
+[Last page of the book] 
+Contact details & Jurisdiction of SEBI’s Offices 
+ 
+Head Office: 
+SEBI Bhavan 
+Plot No.C4-A,'G' Block,Bandra Kurla Complex, 
+Bandra (East), Mumbai 400051 
+Tel : +91-22-26449000 / 40459000 
+Fax : +91-22-26449016-20 / 40459016-20 
+E-mail : sebi@sebi.gov.in 
+ 
+(Maharashtra, Madhya Pradesh, Chhattisgarh, Goa, Diu, Daman and Dadra & 
+Nagar Haveli) 
+ 
+ 
+Northern Regional Office 
+5th Floor, Bank of Baroda Building,16, 
+Sansad Marg, 
+New Delhi - 110 001. 
+Tel. Board: +91-11-23724001-05 
+Fax: +91-11-23724006. 
+E-mail : sebinro@sebi.gov.in 
+ 
+(Haryana, Himachal Pradesh, Jammu 
+and Kashmir, Punjab, Uttar Pradesh, 
+Chandigarh, Uttarakhand and Delhi) 
+ 
+Southern Regional Office 
+D' Monte Building, 3rd Floor, 32 D' 
+Monte Colony, TTK Road, Alwarpet, 
+Chennai: 600 018 
+Tel : +91-44-24674000/24674150 
+Fax: +91-044-24674001 
+E-mail : sebisro@sebi.gov.in 
+ 
+(Andhra Pradesh, Karnataka, Kerala, 
+Tamil Nadu, Puducherry and 
+Lakshwadeep & Minicoy Islands) 
+ 
+ 
+Eastern Regional Office 
+L&T Chambers, 3rd Floor,
+16, Camac Street, 
+Kolkata 700 017 
+Tel : +91-33-23023000 
+Fax: +91-33-22874307. 
+E-mail : sebiero@sebi.gov.in 
+ 
+(Assam, Bihar, Manipur, Meghalaya, 
+Nagaland, Orissa, West Bengal, 
+Arunachal Pradesh, Mizoram, Tripura, 
+Sikkim, Jharkhand and Andaman & 
+Nicobar Islands) 
+ 
+Western Regional Office 
+Unit No: 002, Ground Floor 
+SAKAR I, Near Gandhigram Railway 
+Station, Opp. Nehr u Bridge, Ashram 
+Road 
+Ahmedabad - 380 009 
+Telephone: +91-79-26583633-35 
+Fax: +91-79-26583632 
+E-mail : sebiwro@sebi.gov.in 
+ 
+(Gujarat and Rajasthan)

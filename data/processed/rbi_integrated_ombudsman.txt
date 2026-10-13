@@ -1,0 +1,36 @@
+# Source: RBI Integrated Ombudsman Scheme: Grievance Redressal Mechanism & Customer Rights
+# Organization: Reserve Bank of India (RBI)
+# Official URL: https://cms.rbi.org.in
+# Retrieved: 2026-10-13
+
+RESERVE BANK OF INDIA — INTEGRATED OMBUDSMAN SCHEME (RB-IOS)
+Official Source: Reserve Bank of India (Consumer Education and Protection Department)
+Website: https://cms.rbi.org.in | Contact Center: 14448 (Toll-Free, 10+ Indian Languages)
+
+1. WHAT IS THE INTEGRATED OMBUDSMAN SCHEME?
+The Reserve Bank - Integrated Ombudsman Scheme integrates erstwhile separate ombudsman schemes for Banks, NBFCs, and Non-Bank Prepaid Payment Instruments (PPIs) into 'One Nation One Ombudsman'. It provides a cost-free, expeditious resolution mechanism for customer grievances against RBI-regulated entities.
+
+2. WHEN CAN A CUSTOMER FILE A COMPLAINT?
+A customer can approach the RBI Ombudsman if:
+(a) The regulated entity has rejected the complaint wholly or partly.
+(b) The customer has not received any reply from the bank/NBFC within 30 days of filing the representation.
+(c) The customer is dissatisfied with the reply given by the regulated entity.
+Time Limit: The complaint must be lodged within 1 year from the date of receipt of the bank's rejection or expiry of the 30-day period.
+
+3. VALID GROUNDS FOR COMPLAINTS:
+- Delay or failure in processing inward/outward remittances (NEFT, RTGS, IMPS, UPI).
+- ATM/Debit card/Credit card debit without cash dispense or unauthorized debit.
+- Refusal to open deposit accounts without valid reason or non-adherence to KYC guidelines.
+- Levying service charges without prior notice.
+- Non-observance of RBI Fair Practices Code by lenders (harassment by recovery agents, lack of transparency in loan terms).
+- Inordinate delays in loan sanctioning, disbursement, or return of property title deeds after loan repayment.
+- Mobile/Internet banking transaction failures.
+
+4. HOW TO LODGE A COMPLAINT:
+- Online Portal: https://cms.rbi.org.in (24x7 web portal with tracking facility).
+- Email: crpc@rbi.org.in
+- Physical Post: Centralised Receipt and Processing Centre (CRPC), Reserve Bank of India, 4th Floor, Sector 17, Chandigarh - 160017.
+- Contact Center: Dial 14448 (toll-free) for guidance and tracking.
+
+5. COMPENSATION POWERS:
+The Ombudsman can award compensation up to Rs. 20 lakh for actual consequential loss suffered, and up to Rs. 1 lakh for mental anguish, harassment, and loss of time.

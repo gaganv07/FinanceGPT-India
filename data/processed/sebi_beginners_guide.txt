@@ -1,0 +1,613 @@
+# Source: SEBI Beginner's Guide to Financial Planning and Securities Market
+# Organization: Securities and Exchange Board of India (SEBI)
+# Official URL: https://investor.sebi.gov.in/pdf/reference-material/beginners.pdf
+# Retrieved: 2026-10-13
+
+--- Page 1 ---
+Beginner’s Guide to the Capital Markets 
+ 
+ 
+ Financial Education 
+ 
+ An overview of capital market 
+ 
+ Products available in capital market 
+ 
+ Securities and Exchange Board of India – An 
+Introduction 
+ 
+ Securities and Exchange Board of India and 
+investor protection 
+ 
+
+--- Page 2 ---
+INTRODUCTION 
+ 
+Financial Education 
+ 
+1. Basics 
+a. Importance of financial education : As much as skills are required to 
+earn money, it is requi red in equal measure in spending it wisely. 
+Accordingly, financial education provides you the basic life skill to build a 
+secure financial future. Proper fi nancial knowledge can improve your 
+ability to save for your long term goals and prevent you and your family 
+from financial exigencies. It is important to know the following concepts: 
+ 
+b. Savings and Investing 
+Saving is the excess of your inco me over your expenditure. Generally, 
+savings is in the form of savings bank account and cash. Your money is 
+very safe in a savings account, earning a small rate of interest and you 
+can get back your money as and when you need it (high liquidity). 
+ 
+Whereas when you are investing, y ou are setting your money aside for 
+long term goals. It is normal for investm ents to rise and fall in value over 
+time. However, in the end, prudent in vestments can earn a lot more than 
+in your savings account. 
+ 
+c. Budgeting 
+The first step in your financial pla nning is budgeting - a process for 
+tracking, planning and controlling the in flow and outflow of your income. It 
+entails identifying all the sources of income and taking into account all 
+current and future expenses, with an aim to meet your financial goals. The 
+primary aim of a budgeting is to ensure reasonable savings after providing 
+for all expenses. 
+ 
+Benefits of budgeting 
+• it puts checks and balances in place in order to prevent overspending 
+at various levels; 
+• it takes into account the unexpected need for funds; 
+• it disciplines you in matters of earning and spending; and 
+• it helps you to maintain same standard of living even after post 
+retirement 
+ 
+d. Inflation effects on Investments 
+While planning your invest ment, it is important to take into account the 
+effects of inflation on your investments. Inflation is the rise in prices of 
+goods and services. As the prices of goods and services increase, the 
+value of rupee goes down and you will no t be able to purchase as much 
+with those rupees as you could have in the last month or last year. 
+ 
+
+--- Page 3 ---
+The effect of inflation on invest ment can be better understood with the 
+following illustration: 
+ 
+Say that your monthly consumption of petrol is 10 litres, costing you ` 500 
+@ ` 50 / litre. Further, you meet this expense out of the monthly interest 
+income of ` 500, earned from your fixed depos it. If the inflation rate during 
+the year is 10%, then price of petrol per litre would increase from ` 50 to ` 
+55 / litre. Accordingly, the next year you will not be able to purchase 10 
+litres of petrol, now costing ` 55 / litre, out your interest income of ` 500 
+from your fixed deposit. Hence y our financial plan should aim to earn 
+returns above the rate of inflation. 
+ 
+e. Risk and Return 
+Risk and return go hand in hand. Risk is loosely defined as the chance of 
+loosing all or part of your money invested. The good news is that 
+investment risk comes with the potent ial for return – which makes the 
+activity worthwhile. 
+ 
+The basic thing to remember about risk is that it increases as the potential 
+return increases. Essentially, higher the risk, the higher is the potential 
+return. (Do not forget t he two words - “potential return”. There is no 
+guarantee). 
+ 
+f. Power of Compounding 
+As you pursue your financial planning, the most powerful tool for creating 
+wealth safely and surely is the magi cal ‘power of compounding’. If you 
+park your money in an in vestment with a given return, and then reinvest 
+those earnings as you receive them, your investment grows exponentially 
+over time. 
+ 
+Illustratively, if you set aside a sum of say ` 5,000 every month from the 
+age of 25, earning interest at the rate of 10% p.a., in 60 years you will 
+have with you funds worth more than ` 1 crore. However, if you start at 40 
+with the same amount and rate of interest, the fund accumulated will 
+amount to only around ` 33 lakh. 
+ 
+Hence, it is always advisable to start savings early to enjoy the benefits of 
+power of compounding 
+ 
+g. Time Value of Money 
+Money has time value. As the time passes, the value of money decreases. 
+This means that the va lue of a thousand rupee note you have today is 
+higher than its value five y ears hence, even if there is no inflation. This is 
+because we prefer consumption today to consumption in future which is 
+uncertain. That is why, if you invest ` 1,000 today at 5% per annum, you 
+
+--- Page 4 ---
+would receive ` 1,050 after a year. Thus, ` 1,000 today is equivalent to ` 
+1,050 received after a year or its value one year hence. 
+ 
+ 
+2. Products Available: There are a large variety of financial products available 
+for investment. You need to choose the best product or the best combination 
+of products to meet your preference and objectives. Your choice generally 
+takes a balance view of three factors, namely, Liquidity, Safety and Return 
+depending on the stage of life. 
+ 
+a. Savings Related products 
+Bank deposits are generally safe because they are partly covered by 
+deposit insurance and banks have high capital requirements. The banks 
+are regulated by the Reserve Bank of India. They offer various types of 
+deposits, depending on the needs of the customer . Bank deposits are 
+preferred more for their liquidity and safety than for their returns. 
+ 
+b. Investment Related Products 
+Company fixed deposits are fixed deposit scheme offered by 
+(manufacturing) companies. They are similar to bank fixed deposits but 
+entail lesser liquidity and usually carry higher risk and return. 
+ 
+Capital market offers products like equity, debt, hybrid instruments and 
+various mutual fund schemes. Each of this investment class carries 
+different risk-return profile and is covered separately under ‘products 
+available in capital markets’. 
+ 
+c. Protection Related Products 
+• Life Insurance is a contract providing fo r payment of a sum of money 
+to the person assured or, following him to the person entitled to receive 
+the same, on the happening of a certain event. 
+• Term Life Insurance Lump sum is paid to the designated beneficiary 
+in case of the death of the insured. 
+• Endowment Policies Provide for periodic pay ment of premia and a 
+lump sum amount either in the event of death of the insured or on the 
+date of expiry of the policy, whichever occurs earlier. 
+• Units Linked Insurance Policy (ULIP) provides a combination of risk 
+cover and investment. 
+For more details on insurance products, please refer to the website of the 
+Insurance Regulatory and Development Authority (IRDA), www.irda.org.in 
+ 
+ 
+d. Pension Products 
+• New Pension System (NPS): You can build your retirement corpus 
+during your working days by regul arly contributing (the minimum 
+amount being ` 6,000 p.a.) to the NPS till the age of 60. Your 
+
+--- Page 5 ---
+contribution will be invested by the Pension Fund Manager ( PFM) you 
+choose, in the investment option of your choice: 
+ 
+1. Active Choice 
+ Asset Class E (Equity): Invests in index funds (the maximum 
+allowed is 50%, the balance has to be in Asset Class G & C) 
+ Asset Class G (Government securities): Invests in central and 
+state government bonds 
+ Asset Class C (non government debt ): Invests in liquid funds of 
+Asset Management Companies, bank fixed deposits, rated 
+bonds issued by corporates, banks, financial institutions, PSUs, 
+Municipality and Infrastructure entities. 
+ 
+2. Auto Choice (Life cycle fund): Under this option, your contributions 
+will be automatically allocated to the three asset classes in a 
+predefined manner depending on you ag e, as illustrated in table 
+below. 
+ 
+Age Asset Class E Asset Cl ass C Asset Class G
+Up to 35 years 50% 30% 20%
+45 years 30% 20% 50%
+55 years 10% 10% 80%
+ 
+Upon subscribing, you will be allotted a Pe rmanent pension account 
+number ( PPAN) and your account will reflect your contributions etc. 
+PPAN will remain constant even if you change the PFM, your location 
+or employer. The returns earned by your contributions would depend 
+on your investment option. Charges are applicable to the NPS account 
+as prescribed by the regulator. 
+ 
+At the age of 60, a minimum of 40% of the accumulated amount in the 
+account has to be used to buy a pension (annuity) scheme from an 
+insurance company of your choice from whom you will receive monthly 
+pension. The balance of 60% in your account can be withdrawn or be 
+used to buy annuity. 
+ 
+ NPS is regulated by Pension Fund Regulatory a nd Development 
+Authority (PFRDA) and for further details on NPS, please visit 
+PFRDA’s website (www.pfrda.org.in) 
+ 
+• Annuity / Pension Policies / Funds are offered by insurance 
+companies and offer guaranteed income either for life or for a certain 
+period without any insurance cover. 
+ 
+ 
+e. Borrowing Related Products 
+
+--- Page 6 ---
+• Personal Loans are usually expensive an d are generally taken when 
+you have to meet unexpected needs that are beyond your immediate 
+financial means. 
+• Housing Loan is just another loan with your house as the collateral. 
+• Reverse Mortgage Senior citizens having house property but no 
+regular income, can mortgage their ho use to a bank / housing finance 
+company. In return, they receive regular periodical payments up to a 
+maximum of 15 years. The bank will reco ver this loan by selling off the 
+property upon the demise or leaves the place. Excess amount, if any is 
+paid to the legal heir. 
+• Loan against Securities preserves investment, apart from taking care 
+of personal needs. 
+• Credit Card Debt is very expensive and is usually resorted to when all 
+other options including personal loans are exhausted. 
+ 
+*** 
+
+--- Page 7 ---
+An overview of capital market 
+ 
+Generally, the personal savi ngs of an entrepreneur along with contributions from 
+friends and relatives are the source of fund to start new or to expand existing 
+business. This may not be feasible in ca se of large projects as the required 
+contribution from the entr epreneur (promoter) would be very large even after 
+availing term loan; the promoter may not be able to bring his / her share (equity 
+capital).Thus availability of capital c an be a major constraint in setting up or 
+expanding business on a large scale 
+ 
+However, instead of depending upon a limited pool of savi ngs of a small circle of 
+friends and relatives, the promoter has the option of raising money from the 
+public across the country by selling (issu ing) shares of the company. For this 
+purpose, the promoter can invite investment to his or her venture by issuing offer 
+document which gives full details about tra ck record, the company, the nature of 
+the project, the business model, the expected profitability etc. 
+ 
+If you are comfortable with this proposed venture, you may invest and thus 
+become a shareholder of the com pany. Through aggregation, even small 
+amounts available with a very large numbe r of individuals translate into usable 
+capital for corporates. Your small savings of, say, even ` 5,000 can contribute in 
+setting up, say, a ` 5,000 crore Cement or Steel plant. This mechanism by which 
+corporates raise money from public is called the primary markets. 
+ 
+Importantly, when you, as a shareholder , need your money back, you can sell 
+these shares to other or new investors. Such trades do not reduce or alter the 
+company’s capital. Stock exchanges bri ng such sellers and buyers together and 
+facilitate trading. Therefore, companies raising money from public are required to 
+list their shares on the stock exchange. This mechanism of buying and selling 
+shares through stock exchange is known as the secondary markets. 
+ 
+As a shareholder, you are part owner of the company and entitled to all the 
+benefits of ownership, including dividend (company’s profit distributed to owners). 
+Over the years if the company performs well, other investors would like to 
+become owners of this performing company by buying its shares. This increase 
+in demand for shares leads to increase in its price. You then have the option of 
+selling your shares at a higher price than at which you purchased it. You can thus 
+increase your wealth, provided you make the right choice. The reverse is also 
+true! 
+ 
+Apart from shares, there are m any other financial instruments ( securities) used 
+for raising capital. Debentures or bonds are debt instruments which pay interest 
+over their life time and are used by cor porates to raise medium or long term debt 
+capital. If you prefer fixed income, you may invest in thes e instruments which 
+may give you higher rate of intere st than bank fixed deposit, because of the 
+
+--- Page 8 ---
+higher risk. Besides, equity and debt, a co mbination of these instruments, like 
+convertible debentures, preference shares are also issued to raise capital. 
+ 
+If you have constraints like time, wherewitha l, small amount etc. to invest in the 
+market directly, Mutual Funds (MFs), wh ich are regulated entities, provide an 
+alternative avenue. They collect money from many investors and invest the 
+aggregate amount in the markets in a pr ofessional and transparent manner. The 
+returns from these investments net of management fees are available to you as a 
+MF unit holder. 
+ 
+MFs offer various schemes, like those in vesting only in equity or debt, index 
+funds, gold funds, etc. to cater to risk appetite of various investors. Even with 
+very small amounts, you can invest in MF schemes through monthly systematic 
+investment plans (SIP). 
+ 
+The institutions, players and mechanism that bring suppliers and users of capital 
+together, is known as capital market. It allows people to do more with their 
+savings by providing variet y of assets thereby enhanci ng the wealth of investors 
+who make the right choice. Simultaneously , it enables entrepreneurs to do more 
+with their ideas and talent, facilitating capital formation. 
+ 
+Thus capital market mobilizes savings and channelizes it, through securities, 
+into preferred entrepreneurs. 
+ 
+It is not that the providers of funds meet the user of and exchange funds for 
+securities. It is because the securities offered by the users may not match the 
+preference of the providers of funds. There are a large variety of intermediaries 
+who bring the providers and user of funds together to facilitate the transactions. 
+ 
+The market is supervised by SEBI. It ens ures supply of quality securities and 
+non-manipulated demand for them. It develops best market practices and takes 
+enforcement actions against the miscreants. It essentially maintains discipline in 
+the market so that the participants can undertake transaction safely. 
+ 
+**** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 9 ---
+Products available in capital market 
+ 
+1. Equity (instrument of ownership) 
+Equity shares are instruments issued by com panies to raise capital and it 
+represents the title to the ownership of a company. You become an owner of 
+a company by subscribing to its equity capital (whereby y ou will be allotted 
+shares) or by buying its shares from its existing owner(s). 
+ 
+As a shareholder, you bear the entrepr eneurial risk of the business venture 
+and are entitled to benefits of ownership like share in the distributed profit 
+(dividend) etc. The returns earned in equity depend upon the profits made by 
+the company. company’s future growth etc. 
+ 
+2. Debt (loan instruments) 
+a. Corporate debt 
+• Debentures are instrument issued by companies to raise debt capital. As 
+an investor, you lend you money to the company, in return for its promise 
+to pay you interest at a fixed rate (u sually payable half ye arly on specific 
+dates) and to repay the loan amount on a specified maturity date say after 
+5/7/10 years (redemption). 
+ 
+Normally specific asset(s) of the company are held ( secured) in favour of 
+debenture holders. This can be liquidated, if the company is unable to pay 
+the interest or principal amount. Unlike loans, you can buy or sell these 
+instruments in the market. 
+ 
+Types of debentures that are offered are as follows: 
+o Non convertible debentures (NCD) – Total amount is redeemed by the 
+issuer 
+o Partially convertible debentures (PCD) – Part of it is redeemed and the 
+remaining is converted to equity shares as per the specified terms 
+o Fully convertible debentures (FCD) – Whole value is converted into 
+equity at a specified price 
+ 
+• Bonds are broadly similar to debentures. They are issued by companies, 
+financial institutions, m unicipalities or governm ent companies and are 
+normally not secured by any assets of the company (unsecured). 
+ 
+Types of bonds 
+Regular Income Bonds provide a stable source of income at regular, pre-
+determined intervals 
+Tax-Saving Bonds offer tax exemption up to a specified amount of 
+investment, depending on the scheme an d the Government notification. 
+Examples are: 
+• Infrastructure Bonds under Section 88 of the Income Tax Act, 1961 
+
+--- Page 10 ---
+• NABARD/ NHAI/REC Bonds under Sect ion 54EC of the Income Tax 
+Act, 1961 
+• RBI Tax Relief Bonds 
+ 
+b. Government debt: 
+• Government securities (G-Secs) are instruments issued by Government 
+of India to raise money. G Secs pays in terest at fixed rate on specific 
+dates on half-yearly basis. It is avail able in wide range of maturity, from 
+short dated (one year) to long dated (up to thirty years). Since it is 
+sovereign borrowing, it is free from risk of default ( credit risk). You can 
+subscribe to these bonds through RBI or buy it in stock exchange. 
+ 
+c. Money Market instruments (loan instruments up to one year tenure) 
+• Treasury Bills (T-bills) are short term instruments issued by the 
+Government for its cash management. It is issued at discount to face 
+value and has maturity ranging from 14 to 365 days. Illustratively, a T-bill 
+issued at Rs. 98.50 matures to Rs. 100 in 91 days, offering an yield of 
+6.25% p.a. 
+ 
+• Commercial Papers (CPs) are short term unsec ured instruments issued 
+by the companies for their cash manage ment. It is issued at discount to 
+face value and has maturity ranging from 90 to 365 days. 
+ 
+• Certificate of Deposits (CDs) are short term unsecured instruments 
+issued by the banks for their cash manage ment. It is issued at discount to 
+face value and has maturity ranging from 90 to 365 days. 
+ 
+ 
+3. Hybrid instruments (combination of ownership and loan instruments) 
+• Preferred Stock / Preference shares entitle you to receive dividend at a 
+fixed rate. Importantly, this dividend had to be paid to you before dividend 
+can be paid to equity shareholders. In the event of liquidation of the 
+company, your claim to the company’s surplus will be higher than that of 
+the equity holders, but however, below the claims of the company’s 
+creditors, bondholders / debenture holders. 
+ 
+• Cumulative Preference Shares : A type of preference shares on which 
+dividend accumulates if remains unpaid. All arrears of preference dividend 
+have to be paid out before paying dividend on equity shares. 
+ 
+• Cumulative Convertible Preference Shares: A type of preference 
+shares where the dividend payable on t he same accumulates, if not paid. 
+After a specified date, these shares wil l be converted into equity capital of 
+the company. 
+ 
+
+--- Page 11 ---
+• Participating Preference Shares gives you the right to participate in 
+profits of the company after the s pecified fixed dividend is paid. 
+Participation right is linked with the quantum of dividend paid on the equity 
+shares over and above a particular specified level. 
+ 
+4. Mutual Funds 
+Mutual funds collect money from many investors and invest this corpus in 
+equity, debt or a combination of both, in a professiona l and transparent 
+manner. In return for your investment, you receive units of mutual funds which 
+entitle you to the benefit of the collective return earned by the fund, after 
+reduction of management fees. 
+ 
+Mutual funds offer different schemes to cater to the needs of the investor are 
+regulated by securities and Exchange board of India (SEBI) 
+ 
+Types of Mutual Funds 
+At the fundamental level, there are three types of mutual funds: 
+o Equity funds (stocks) 
+o Fixed-income funds (bonds) 
+o Money market funds 
+ 
+Classification of mutual funds 
+ 
+a. By structure 
+• Open-ended Funds 
+An open-ended fund does not have a maturity date. 
+• Closed-end Funds 
+Closed-end funds run for a specific period. 
+b. By investment objective 
+• Growth Funds 
+A mutual fund scheme investing in equity 
+• Bond / Income Funds 
+A mutual fund scheme investing primarily in government and 
+corporate debt to provide income on a steady basis. 
+• Balanced Funds 
+A mutual fund scheme investing in a mix of equity and debt. 
+• Money Market Funds 
+A mutual fund scheme investing in money market instruments. 
+c. Others 
+• Tax savings schemes (Equity Linked Saving Scheme- 
+ELSS) 
+Equity funds along with tax benefi ts to the investors and has a 
+lock in period of three years. 
+• Sector funds 
+
+--- Page 12 ---
+They target at the specific sectors of the economy such as 
+financial, technology, health, etc. 
+• Index Funds 
+This type of mutual fund replic ates the performance of a broad 
+market index such as the SENSEX or NIFTY. 
+ 
+The above mentioned categories of mutual fund schemes are basic in nature and 
+for full details please refer to SEBI’s”Beginner’s guide on mutual funds”. 
+ 
+***
+
+--- Page 13 ---
+Securities and Exchange Board of India – An Introduction 
+ 
+The securities market enables capital formation in the economy and enhances 
+wealth of investors who make the right choices. The investor confidence is the 
+key prerequisite for the emergence of a vibrant and deep capital market. The role 
+of regulator in creati ng and enhancing investor c onfidence is, therefore, 
+paramount. 
+ 
+Accordingly, Securities and Exchange Board of India (SEBI) was set up by an 
+Act of Parliament of India in April, 1992 with a mandate to 
+• Protect the interest of investors 
+• Promote the development of and 
+• Regulate the securities market 
+ 
+Market regulation 
+SEBI prescribes the conditions for issuer companies to raise capital from the 
+pubic so as to protect the interest of t he suppliers of capital (investors). The 
+extensive disclosures prescribed for i ssuers facilitate informed investment 
+decision making by investors while simultaneously ensuring quality of the issuer. 
+Further, it has prescribed norms for such corporates on ‘on going’ basis and also 
+during their restructuring ( like substantial acquisition, buy back and delisting of 
+shares) to safeguard the interest of investors. 
+ 
+To ensure fair and high standards of service to investors, SEBI allows only fit and 
+proper entities to operate in the capital mark ets as intermediaries. In this regard, 
+it has prescribed detailed and uniform norms of their registration. Further, to 
+ensure market integrity, it has prescr ibed norms for fair market practices 
+including prohibiting fraudulent and unfai r trade practices and insider trading. 
+Detailed norms for safeguarding the intere st of investors in secondary markets 
+have also been prescribed. SEBI also pr escribes conditions for operation of 
+collective investor schemes, including Mutual Funds. 
+ 
+Market development: 
+On an on going basis, SEBI initiates measures to widen and deepen the 
+securities markets by bringing changes in market micro and macrostructure. The 
+major market development measures underta ken by SEBI include shift from the 
+non transparent open out cry system to the transparent scr een based on line 
+trading system, elimination of problems of physical cert ificates by shifting to 
+electronic mode (demat), implementi ng robust risk management framework in 
+stock market trading etc. In the recent past SEBI has initia ted ASBA (application 
+supported by blocked amount) to eliminat e problems pertaining to refunds in 
+public issues. 
+ 
+SEBI’s major policy decisions are formu lated through a consultative process 
+involving expert committees with repr esentation from industry, academia, 
+
+--- Page 14 ---
+investors’ associations. Further, public comments are invited before 
+implementation of major changes, rendering the whole process participative. 
+ 
+Investor protection: 
+The above mentioned regul atory framework and t he market development 
+measures of SEBI are invariably geared towards protecting the interest of 
+investors. Besides, SEBI also has a comprehensive mechanism to facilitate 
+redressal of investor’s grievances. Fu rther, in keeping with its belief that an 
+informed investor is a protected in vestor, SEBI promot es education and 
+awareness of investors. Moreover, mechani sms for dispute redressal (arbitration 
+at stock exchanges) and to compensate investors have also been provided. 
+ 
+Enforcement: 
+SEBI ascertains compliance to its norms by carrying out inspections of registered 
+intermediaries, investigati ons and while processing of documents filed with it, 
+including investors complaints. SEBI is vested with the power of civil court to call 
+for information and records, to issue su mmons, to inspect and to investigate 
+entities associated with securities market s. If breach of no rms is established, 
+SEBI suspends or cancels the license gran ted to intermediaries. Besides, SEBI 
+issues prohibitive and c ease and desist orders against intermediaries and non 
+intermediaries and also imposes m onetary penalties through adjudication 
+proceedings. 
+ 
+Apart from these civil proceedings, SEBI also launches criminal proceedings 
+against entities for breach of norms. All su ch orders of SEBI ar e available in the 
+website (www.sebi.gov.in), serving as a warning to potential defaulter. 
+ 
+*** 
+
+--- Page 15 ---
+Securities and Exchange Board of India and investor protection 
+ 
+Securities and Exchange Board of Indi a (SEBI) has been established with the 
+prime mandate to protect the interest of investors in securities. It is also 
+mandated to promote the development of, and to regulate the securities market. 
+ 
+An investor enjoys investing, if (i) he knows how to invest; (ii) he has full 
+knowledge of the market; (iii) the market is safe and there are no miscreants; and 
+(iv) there are arrangements for redressal in case of grievances. Accordingly, 
+SEBI’s investor protection strategy has four elements. 
+ 
+First, build the capacity of investors through education and aw areness to enable 
+an investor to take informed investm ent decisions. SEBI endeavours to ensure 
+that the investor learns investing, that is, he obt ains and uses information 
+required for investing, evaluates various in vestment options to suit his specific 
+goals, ascertains his rights and obligatio ns in a particular investment, deals 
+through registered intermediaries, takes necessary precautions, seeks help in 
+case of any grievance, etc. SEBI has been organizing investor education and 
+awareness workshops directly, and through investor associations and market 
+participants, and been encouraging market participants to organize similar 
+programmes. It maintains an updated, comp rehensive web site for education of 
+investors. It publishes various kinds of cautions through media. It responds to the 
+queries of investors through telephone, e-mails, letters, and in person for those 
+who visit SEBI office. 
+ 
+Second, make available ever y detail relevant for investment in public domain. 
+SEBI has adopted disclosure ba sed regulatory regime. U nder this framework, 
+issuers and intermediaries disclose re levant details about themselves, the 
+products, the market and the r egulations so that the investor can take informed 
+investment decisions based on such di sclosures. SEBI has prescribed and 
+monitors various initial and continuous disclosures. 
+ 
+Third, ensure that the market has systems and practices which make 
+transactions safe. SEBI has taken various measures such as screen based 
+trading system, dematerialization of securities, T+2 rolling settlement, and framed 
+various regulations to regulate intermedi aries, issue and trading of securities, 
+corporate restructuring, etc. to protect the interests of investors in securities. It 
+also ensures that only the fit and proper persons are allowed to operate in the 
+market, every participant has incentive to comply with the prescribed standards, 
+and the miscreant are awarded exemplary punishment. 
+ 
+Fourth, facilitate redressal of investor grievances. SEBI has a comprehensive 
+mechanism to facilitate redressal of inve stor grievances against intermediaries 
+and listed companies. It follows up with the companies and intermediaries who 
+do not redress investors’ grievances, by sending reminders to them and having 
+meetings with them. It takes appropriate enforcement actions as provided under 
+
+--- Page 16 ---
+the law (including launch of adjudicati on, prosecution proceedings, directions) 
+where progress in redressal of investor grievances is not satisfactory. It has set 
+up a comprehensive arbitration mechanism in stock exchanges and depositories 
+for resolution disputes of the invest ors. The stock exchanges have investor 
+protection funds to compensate investors when a broker is declared a defaulter. 
+Depository indemnifies investors for loss due to negligence of depository or 
+depository participant. 
+ 
+***

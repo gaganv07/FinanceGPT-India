@@ -1,0 +1,138 @@
+# Source: SEBI Investor Guide: Secondary Markets and Stock Exchanges
+# Organization: Securities and Exchange Board of India (SEBI)
+# Official URL: https://investor.sebi.gov.in/pdf/reference-material/Secondaryma.pdf
+# Retrieved: 2026-10-13
+
+--- Page 1 ---
+SECONDARY MARKETS 
+ 
+DOS 
+9 Take a holistic view of your financ ial goals and invest accordingly 
+9 Invest only after adequate research / analysis 
+9 Be aware that value of your invest ments is subject to ups and downs of 
+the market. They do not offer guaranteed returns like bank deposits 
+9 Deal only with SEBI registered br okers / Depository Participant (DP) 
+ this list is available on SEBI, Stock Exchange ( SE) and 
+Depositories websites 
+9 Check and satisfy yourself about the credentials and experience of the 
+intermediary 
+9 Ensure you have PAN card and Bank account 
+9 Strike off all blank / irrelevant fields / clauses in the 
+ agreement(s) executed 
+ Registration of Know Your Customer ( KYC) 
+9 Obtain Unique Client Code ( UCC) from stock broker 
+9 Get all your trades executed only through your UCC 
+9 Insist that your demat a/c number is preprinted / pre stamped on the 
+Delivery Instruction Slips (DIS) 
+9 Be aware that an intermediary or its staff making a recommendation, is 
+required to disclose their interest/ position in that scrip 
+9 If you avail internet trading facility, 
+ grant Power of Attorney ( PoA) only for auto debit of funds / 
+securities for settlement obligation for investment / subscription 
+ Opt for digital contract note 
+ Ensure adequate infrastructu re and safety measures 
+9 Make payments only 
+ through A/c payee cheques / drafts / EFT 
+ to the stock broker and not to the sub broker, dealing persons / 
+employees of broker / sub broker 
+9 Keep a record of all 
+ instructions and transactions with broker / DP 
+ correspondences of complaints against broker / DP 
+9 Ensure that contract note (physical or digital) is signed by an authorized 
+person 
+9 Keep track of your portfolio in your Demat A/c on a regular basis 
+9 In case of any dispute / difference / grievance, contact the compliance 
+officer of broker / DP 
+ Be aware that all brokers/ DP s are required to have a dedicated 
+Email ID for registering your complaints 
+9 Be aware that investor complaints against brokers / DPs are displayed on 
+the websites of SE / Depositories 
+9 Approach SEBI, if your grievance is not resolved 
+9 Be aware that details of arbitration proceedings and penal actions against 
+brokers / DPs are displayed on the websites of SE / Depositories 
+
+--- Page 2 ---
+9 Freeze your demat a/c, if y ou are not using it regularly 
+ 
+ 
+DON’TS 
+8 Do not invest with borrowed money 
+8 Do not expect unrealis tic / guaranteed returns 
+8 Do not be influenced by advertisement / advices / rumours / unauthentic 
+news promising unrealistic gains and windfall profits in mass media 
+8 Do not be guided by astr ological predictions on share prices and market 
+movements 
+8 Do not fall prey to market rumours / ‘hot tips’/ ‘opportunity knocks only 
+once’ kind of advice 
+8 Do not invest in scrips on sudden spurts in trading volumes / prices 
+without proper research 
+8 Do not be swayed by market sentiments 
+8 Do not invest on any explicit/ implicit promises made by anyone 
+8 Do not indulge in impulse investing 
+8 Do not participate in unauthorised and illegal trades outside the stock 
+exchange mechanism (dabba trading) 
+8 Do not give wrong / contradictory / in complete information in the client 
+registration form 
+8 Do not execute PoA in favour of em ployee / representative of broker / DP 
+8 Do not reveal your trading / dem at account passwords to any body 
+8 Do not allow others to trade in your account 
+8 Do not trade in anybody else’s account 
+8 Do not pay money to anyone to tr ade on your behalf for assured returns 
+8 Do not entrust management of your money / securities with broker / sub 
+broker 
+8 Do not sign blank forms (account opening forms/ DIS / Demat Request 
+Form (DRF) 
+8 Do not engage in practices that di stort demand / prices artificially 
+ 
+ 
+RIGHTS 
+9 To receive copies of all documents of client registration including PoA, if 
+any 
+9 To get the applicable brokerage rates / tariff / charge structure in writing 
+from your broker / DP 
+9 To receive the best price prevailing at the time of trade for transactions 
+executed through stock exchange 
+9 To receive contract note for a ll your transactions within 24 hours 
+9 To receive payment / deliveries wit hin three days of the transaction 
+9 To refuse granting PoA in favour of the broker / DP 
+9 To revoke the PoA granted to brok er / DP at any time and have your 
+revocation request date stamped 
+
+--- Page 3 ---
+9 To file complaint with Exchange / Depository for any dispute against 
+broker / DP 
+9 To file for arbitration, available at SE / Depository, against broker / DP 
+ 
+ 
+RESPONSIBILITIES 
+9 To invest your hard earned money only with sufficient knowledge and 
+analysis 
+9 Invest only after carefully analyzing t he suitability in the context of your 
+financial goals and risk taking capacity 
+9 Peruse the extensive disclosures on listed companies available on SE 
+website(s) 
+9 Read and understand the client agreement before signing it 
+9 If you choose to grant PoA in favour of broker / DP, read and understand 
+its contents before signing 
+9 Give correct and full details at the time of registra tion and update it 
+regularly 
+9 Fully understand the cont ents of Risk Disclosure Document before trading 
+9 Avail nomination for your demat account without fail 
+9 Ascertain the face value of the share before investing 
+9 Give clear, unambiguous and timely in structions to your broker / DP 
+9 Verify all details in contract note, immediately upon receipt 
+9 Crosscheck details of your trade(s) on the exchange website 
+9 Bring any discrepancy to the notice of broker / DP immediately. 
+9 Ensure timely pay-in of shares and monies 
+9 Scrutinize minutely both the transac tion and the holding statements issued 
+by DP 
+9 Handle DIS book issued by DP’s with the same care as a Cheque book 
+9 Inform the DP in writing incase of loss of DIS book 
+ 
+ 
+Disclaimer: The aforesaid information provided as a service to investor(s) and 
+general in nature. It is nei ther a legal interpretation nor a statement of SEBI 
+policy. If you have questions concerning the meaning or application of a 
+particular act or rule or regulation or circular, please consult your legal advisor. 
+ 
+***

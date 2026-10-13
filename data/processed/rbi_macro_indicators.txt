@@ -1,0 +1,24 @@
+# Source: RBI Macroeconomic Benchmarks: CPI Inflation Target and Policy Repo Rate
+# Organization: Reserve Bank of India (RBI Database / Monetary Policy)
+# Official URL: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx
+# Retrieved: 2026-10-13
+
+RESERVE BANK OF INDIA — MACROECONOMIC BENCHMARKS & INFLATION OVERVIEW
+Source: Reserve Bank of India Monetary Policy Committee (MPC) & Database on Indian Economy (DBIE)
+Website: https://www.rbi.org.in | Frequency: Bi-monthly Monetary Policy Review
+
+1. KEY POLICY BENCHMARK RATES (Current Observation):
+- Policy Repo Rate: 5.50% (The rate at which RBI lends money to commercial banks against government securities).
+- Standing Deposit Facility (SDF) Rate: 5.25% (Uncollateralized absorption of liquidity by RBI).
+- Marginal Standing Facility (MSF) Rate: 5.75% (Penal borrowing rate for banks).
+- Bank Rate: 5.75%.
+
+2. INFLATION TARGETING FRAMEWORK:
+- Statutory Target: Under Section 45ZA of the RBI Act, the Central Government in consultation with the RBI set the Consumer Price Index (CPI) Combined inflation target at 4.0% with an upper tolerance band of 6.0% and a lower tolerance band of 2.0% (4% +/- 2%).
+- Target Benchmark: CPI (Combined) Base Year 2012 = 100.
+- Measurement Frequency: Published monthly by the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI).
+
+3. HOW INFLATION IMPACTS PERSONAL PURCHASING POWER:
+- Purchasing power measures the quantity of goods or services that one unit of currency can buy.
+- Positive inflation erodes purchasing power over time. If inflation averages 6.0% annually, a basket of goods costing Rs. 1,00,000 today will cost approximately Rs. 1,79,084 in 10 years.
+- To protect wealth, financial planners recommend investing in asset classes (such as equity mutual funds or diversified portfolios) whose post-tax expected returns outpace the prevailing CPI inflation rate over long horizons.

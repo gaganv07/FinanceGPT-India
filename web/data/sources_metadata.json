@@ -1,0 +1,212 @@
+{
+  "sebi_mutual_funds": {
+    "id": "sebi_mutual_funds",
+    "title": "SEBI Investor Education: Guide to Mutual Funds",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/MFunds.pdf",
+    "type": "pdf",
+    "topics": [
+      "Mutual Funds",
+      "Net Asset Value (NAV)",
+      "SIP vs Lump Sum",
+      "Risk Categories",
+      "Units and Diversification"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2021",
+    "retrieved_date": "2026-10-13 23:20:50",
+    "processed_file": "data\\processed\\sebi_mutual_funds.txt",
+    "char_count": 7623,
+    "processed_size_bytes": 8234,
+    "extraction_status": "SUCCESS"
+  },
+  "sebi_beginners_guide": {
+    "id": "sebi_beginners_guide",
+    "title": "SEBI Beginner's Guide to Financial Planning and Securities Market",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/beginners.pdf",
+    "type": "pdf",
+    "topics": [
+      "Financial Planning",
+      "Saving vs Investing",
+      "Inflation Impact",
+      "Emergency Funds",
+      "Risk Appetite"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2021",
+    "retrieved_date": "2026-10-13 23:20:51",
+    "processed_file": "data\\processed\\sebi_beginners_guide.txt",
+    "char_count": 29613,
+    "processed_size_bytes": 30618,
+    "extraction_status": "SUCCESS"
+  },
+  "sebi_primary_markets": {
+    "id": "sebi_primary_markets",
+    "title": "SEBI Investor Guide: Primary Markets and Initial Public Offerings (IPO)",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/primarymarkets.pdf",
+    "type": "pdf",
+    "topics": [
+      "Primary Market",
+      "IPO Process",
+      "Draft Red Herring Prospectus",
+      "Allotment",
+      "Retail Bidding"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2021",
+    "retrieved_date": "2026-10-13 23:20:55",
+    "processed_file": "data\\processed\\sebi_primary_markets.txt",
+    "char_count": 51436,
+    "processed_size_bytes": 53439,
+    "extraction_status": "SUCCESS"
+  },
+  "sebi_secondary_markets": {
+    "id": "sebi_secondary_markets",
+    "title": "SEBI Investor Guide: Secondary Markets and Stock Exchanges",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/Secondaryma.pdf",
+    "type": "pdf",
+    "topics": [
+      "Secondary Market",
+      "Stock Exchanges",
+      "Demat Account",
+      "Settlement T+1",
+      "Trading Safeguards"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2021",
+    "retrieved_date": "2026-10-13 23:20:56",
+    "processed_file": "data\\processed\\sebi_secondary_markets.txt",
+    "char_count": 6214,
+    "processed_size_bytes": 6616,
+    "extraction_status": "SUCCESS"
+  },
+  "sebi_dos_and_donts": {
+    "id": "sebi_dos_and_donts",
+    "title": "SEBI Investor Protection: Do's and Don'ts & Identifying Registered Advisers",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/dos-and-donts-for-investors-investment-advisers.pdf",
+    "type": "pdf",
+    "topics": [
+      "Investor Protection",
+      "Registered Investment Advisers",
+      "Fraud Warning",
+      "Ponzi Schemes",
+      "Unsolicited Tips"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2022",
+    "retrieved_date": "2026-10-13 23:20:57",
+    "processed_file": "data\\processed\\sebi_dos_and_donts.txt",
+    "char_count": 2533,
+    "processed_size_bytes": 2917,
+    "extraction_status": "SUCCESS"
+  },
+  "sebi_shares_debentures": {
+    "id": "sebi_shares_debentures",
+    "title": "SEBI Investor Guide: Equities vs Corporate Debentures and Bonds",
+    "source_org": "Securities and Exchange Board of India (SEBI)",
+    "url": "https://investor.sebi.gov.in/pdf/reference-material/sharedebentureholder.pdf",
+    "type": "pdf",
+    "topics": [
+      "Equity Shares",
+      "Debentures",
+      "Bonds",
+      "Dividend vs Interest",
+      "Credit Risk",
+      "Debenture Trustee"
+    ],
+    "license": "Public Investor Education Material (SEBI IPEF) - Free for educational use",
+    "publication_date": "2021",
+    "retrieved_date": "2026-10-13 23:21:00",
+    "processed_file": "data\\processed\\sebi_shares_debentures.txt",
+    "char_count": 87179,
+    "processed_size_bytes": 90088,
+    "extraction_status": "SUCCESS"
+  },
+  "rbi_digital_payments": {
+    "id": "rbi_digital_payments",
+    "title": "RBI Initiative: UPI for Feature Phones (UPI123Pay) and DigiSaathi Helpline",
+    "source_org": "Reserve Bank of India (RBI)",
+    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53385",
+    "type": "html_press_release",
+    "topics": [
+      "Digital Payments",
+      "UPI123Pay",
+      "DigiSaathi Helpline (14431 / 1800-891-3333)",
+      "UPI PIN Security",
+      "Offline Payments"
+    ],
+    "license": "Official RBI Press Release & Public Information - Free for educational use",
+    "publication_date": "2022-03-08",
+    "retrieved_date": "2026-10-13 23:21:01",
+    "processed_file": "data\\processed\\rbi_digital_payments.txt",
+    "char_count": 2937,
+    "processed_size_bytes": 3212,
+    "extraction_status": "SUCCESS"
+  },
+  "rbi_integrated_ombudsman": {
+    "id": "rbi_integrated_ombudsman",
+    "title": "RBI Integrated Ombudsman Scheme: Grievance Redressal Mechanism & Customer Rights",
+    "source_org": "Reserve Bank of India (RBI)",
+    "url": "https://cms.rbi.org.in",
+    "type": "curated_text",
+    "topics": [
+      "Banking Ombudsman",
+      "Grievance Redressal",
+      "Complaint Filing",
+      "Turnaround Time (30 days)",
+      "Helpline 14448"
+    ],
+    "license": "Official RBI Customer Education & Protection Department - Free for educational use",
+    "publication_date": "2021-11-12",
+    "retrieved_date": "2026-10-13 23:21:01",
+    "processed_file": "data\\processed\\rbi_integrated_ombudsman.txt",
+    "char_count": 2221,
+    "processed_size_bytes": 2457,
+    "extraction_status": "SUCCESS"
+  },
+  "rbi_fraud_awareness": {
+    "id": "rbi_fraud_awareness",
+    "title": "RBI BE(A)WARE: Modus Operandi of Financial Frauds and Safe Digital Practices",
+    "source_org": "Reserve Bank of India (RBI)",
+    "url": "https://www.rbi.org.in/financialeducation/",
+    "type": "curated_text",
+    "topics": [
+      "Financial Fraud Prevention",
+      "Phishing & Vishing",
+      "SIM Swap Fraud",
+      "Fake Loan Apps",
+      "OTP Confidentiality"
+    ],
+    "license": "Official RBI Public Awareness Initiative - Free for educational use",
+    "publication_date": "2022-03-07",
+    "retrieved_date": "2026-10-13 23:21:02",
+    "processed_file": "data\\processed\\rbi_fraud_awareness.txt",
+    "char_count": 2737,
+    "processed_size_bytes": 2988,
+    "extraction_status": "SUCCESS"
+  },
+  "rbi_macro_indicators": {
+    "id": "rbi_macro_indicators",
+    "title": "RBI Macroeconomic Benchmarks: CPI Inflation Target and Policy Repo Rate",
+    "source_org": "Reserve Bank of India (RBI Database / Monetary Policy)",
+    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
+    "type": "numerical_dataset",
+    "topics": [
+      "Policy Repo Rate (5.50%)",
+      "CPI Inflation Target (4% +/- 2%)",
+      "Purchasing Power",
+      "Monetary Policy Committee"
+    ],
+    "license": "Official RBI Macroeconomic Policy Aggregates - Free for educational use",
+    "publication_date": "2026-10-01",
+    "retrieved_date": "2026-10-13 23:21:02",
+    "processed_file": "data\\processed\\rbi_macro_indicators.txt",
+    "char_count": 1675,
+    "processed_size_bytes": 1953,
+    "extraction_status": "SUCCESS"
+  }
+}

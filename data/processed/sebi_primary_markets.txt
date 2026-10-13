@@ -1,0 +1,1301 @@
+# Source: SEBI Investor Guide: Primary Markets and Initial Public Offerings (IPO)
+# Organization: Securities and Exchange Board of India (SEBI)
+# Official URL: https://investor.sebi.gov.in/pdf/reference-material/primarymarkets.pdf
+# Retrieved: 2026-10-13
+
+--- Page 1 ---
+ - 1 - 
+Beginner’s Guide to Capital Market - Primary Markets 
+ 
+ 
+ Introduction 
+ How Primary Market Work 
+ How to Invest in Public Issues 
+ How to Read Offer Document 
+ IPO Grading 
+ Credit Rating 
+ Message to Investors 
+ 
+
+--- Page 2 ---
+ - 2 - 
+1. Introduction 
+ 
+a. What is a primary market? 
+ 
+Generally, the personal savings of the entrepreneur along with contributions from 
+friends and relatives are pooled in to start new business ventures or to expand existing 
+ones. 
+ 
+However, this may not be feasible in the case of capital intensive or large projects as 
+the entrepreneur (promoter) may not be able to bring in his share of contribution 
+(equity), which may be sizable, even after availing term loan from Financial 
+Institutions/Banks. Thus availability of capital is a major constraint for the setting up or 
+expanding ventures on a large scale. 
+ 
+Instead of depending upon a limited pool of savings of a small circle of friends and 
+relatives, the promoter has the option of raising money from the public across the 
+country/world by issuing) shares of the company. For this purpose, the promoter can 
+invite investment to his or her venture by issuing offer document which gives full details 
+about track record, the company, the nature of the project, the business model, etc. 
+ 
+ If the investor is comfortable with this proposed venture, he may invest and thus 
+become a shareholder of the company. Through aggregation, even small amounts 
+available with a very large number of individuals translate into usable capital for 
+corporates. Primary market is a market wherein corporates issue new securities for 
+raising funds generally for long term capital requirement. 
+ 
+The companies that issue their shares are called issuers and the process of issuing 
+shares to public is known as public issue. This entire process involves various 
+intermediaries like Merchant Banker, Bankers to the Issue, Underwriters, and 
+Registrars to the Issue etc .. All these inte rmediaries are registered with SEBI and are 
+required to abide by the prescribed norms to protect the investor. 
+ 
+The Primary Market is, hence, the market that provides a channel for the issuance of 
+new securities by issuers (Government companies or corporates) to raise capital. The 
+securities (financial instruments) may be issued at face value, or at a discount / 
+premium in various forms such as equity, debt etc. They may be issued in the domestic 
+and / or international market. 
+Features of primary markets include: 
+••• the securities are issued by the company directly to the investors. 
+••• The company receives the money and issues new securities to the investors. 
+••• The primary markets are used by companies for the purpose of setting up new 
+ventures/ business or for expanding or modernizing the existing business 
+••• Primary market performs the crucial function of facilitating capital formation in 
+the economy 
+ 
+b. How does it work? 
+
+--- Page 3 ---
+ - 3 - 
+ 
+Preparation and Filing of Offer Document: 
+ 
+i. A company wanting to raise capital from the public is required to prepare an offer 
+document giving sufficient information and disclosures, which enables (potential) 
+investors to make an informed decision. Accordingly, the offer document is 
+required to contain details about the company, its promoters, the project, financial 
+details, objects of raising the money, terms of the issue etc. ‘ How to read the 
+offer document’ is dealt in the section ‘How to apply in public issue’. 
+ 
+ii. The issuer company engages a SEBI registered merchant banker to prepare the 
+offer document. Besides, due diligence in preparing the offer document, the 
+merchant banker is also responsible for ensuring legal compliance. The merchant 
+banker facilitates the issue in reaching the prospective investors (marketing the 
+issue). 
+ 
+iii. The draft offer document thus prepared is filed with SEBI and is made available 
+on SEBI’s website (http://www.sebi.gov.in/SectIndex.jsp?sub_sec_id=70 ) along 
+with its status of processing (http://www.sebi.gov.in/PMDData.html ). Company is 
+also required to make a public announcement about the filing English, Hindi and in 
+regional language newspapers. In case, investors notice any wrong / incomplete / 
+lack of information in the offer document, they may send their representation / 
+complaint to the merchant banker and / or to SEBI. 
+ 
+iv. The Indian regulatory framework is based on a disclosure regime. SEBI reviews 
+the draft offer document and may issue observations on the draft offer document 
+with a view to ensure that adequate disclosures are made by the issuer 
+company/merchant bankers in the offer document to enable the investor to make 
+an informed investment decision in the issue. It must be clearly understood that 
+SEBI does not “vet” and “approve” the offer document. 
+ 
+v. SEBI’s observations on the draft offer document are forwarded to the merchant 
+banker, who incorporates the necessary changes and files the final offer 
+document with SEBI, Registrar of Companies (ROC ) and stock exchange(s ). 
+This is made available on websites of the merchant banker, stock exchange(s) 
+and SEBI. 
+ 
+Opening of the Issue: 
+ 
+vi. After completing legal formalities, the issuer company issues advertisements in 
+English, Hindi and regional language news papers and the issue is open to 
+public for subscription. 
+ 
+vii. If the prospective investor is interested in subscribing to the shares of the issuer 
+company based on what is disclosed in the offer document, he can apply for its 
+shares (or debentures) before the issue cl oses, by duly filling up the application 
+form and making the payment. ‘ How to apply invest in (public) issues ’, is 
+covered separately. 
+ 
+
+--- Page 4 ---
+ - 4 - 
+viii. The entire back office operation of the public issue, including processing of 
+application forms, despatch of refunds, allotment of securities, is handled by the 
+Registrar to the Issue (RTI) on behalf of the issuer company. 
+ 
+ix. It is to be noted that only one application per PAN is allowed in any issue. If 
+investor makes more than one application, all the applications are liable to be 
+rejected. The RTI matches applicant’s name in the application form and verifies it 
+against the PAN, demat account details (DP ID and Demat A/c No) and also 
+weeds out duplicate applications. 
+ 
+Allotment and Listing: 
+ 
+x. The issue then closes (investor cannot apply beyond the closing date) and the 
+shares are allotted to the applicants proportionally or on lottery basis, if there is 
+oversubscription. The merchant banker and RTI finalize the ‘ basis of allotment’. 
+This is approved by the stock exchange officials and the basis of allotment is 
+made available in the website of the RTI. The issuer company issues 
+advertisements in English, Hindi and regional language news papers about the 
+issue price and basis of allotment. 
+ 
+ 
+PROCEDURE OF ALLOTMENT 
+ 
+ACB Company Ltd. is offering shares 10 crore shares @ ` 600 per share to the 
+public. The minimum amount, for which allotment can be made, is required to be 
+in the range of ` 5,000 – 7,000. Accordingly, the minimum application size for this 
+issue works out to 9 shares ( ` 600 X 9 = ` 5,400). Therefore, application can be 
+made for a minimum of 9 shares or in multiples thereof. 
+ 
+Item Number of shares 
+offered 
+Subscription 
+received for 
+(number of shares) 
+Total 10.00 crore 40.00 crore 
+(4 times)
+• out of which, offered to 
+retail investors 
+3.50 crore 28.87 crore 
+(8.25 times)
+ 
+Assume there are three retail individual investors A, B & C who have applied for 
+81, 72 and 45 shares respectively. Allotment is done to each investor in 
+proportion to the number of times of subscription. In this case as the subscription 
+is 8.25 times the allotment for each investor is 1/8.25 th of the number of shares 
+applied for as given in table below: 
+ 
+Sr. 
+No. 
+Name of 
+retail 
+investor 
+Number of 
+shares 
+applied for 
+(A) 
+Number of 
+shares 
+eligible to be 
+allotted 
+(A / 8.25) 
+Shares allotted after 
+rounding off 
+1 A 81 81 / 8.25 = 9.82 shares 10
+
+--- Page 5 ---
+ - 5 - 
+2 B 72 72 / 8.25 = 8.73 shares 9 (i.e. minimum application size).
+3 C 45 45 / 8.25 = 
+5.45 shares
+The successful applicants 
+out of the total applicants 
+shall be determined by 
+drawing lots. Allotment 
+would be 9 shares 
+ 
+ 
+xi. Upon allotment, investor will receive demat credit within 12 days. The despatch 
+of refund cheques, instructions for unblocking amount in bank account (for 
+ASBA) and instructions for electronic credits of refund money, is given by the 
+RTI within 12 days of the close of the i ssue. ASBA is dealt in the section ‘How to 
+apply in public issue’. 
+ 
+xii. The shares of the company are then listed on the stock exchange within 12 
+working days of the close of the issue. Listing of shares (or debentures) in stock 
+exchange enables the investor to buy securities from or sell securities to other 
+investors (secondary market). 
+ 
+xiii. The complete contact details of all the intermediaries involved in an issue namely 
+merchant banker, RTI, banker to the issue etc. are available in the offer 
+document. In case the investor needs any clarification they can contact them. 
+ 
+ 
+Different types of issues 
+i. Public issue : When a company raises funds by selling (issuing) its shares (or 
+debenture / bonds) to the public through issue of offer document (prospectus), it is 
+called a public issue. 
+ 
+1) Initial Public Offer: When a (unlisted) company makes a public issue for the 
+first time and gets its shares listed on stock exchange, the public issue is called as 
+initial public offer (IPO). 
+ 
+2) Further public offer: When a listed company makes another public issue to 
+raise capital, it is called further public / follow-on offer (FPO). 
+ 
+ii. Offer for sale: Institutional investors like venture funds, private equity funds etc., 
+invest in unlisted company when it is very small or at an early stage. Subsequently, 
+when the company becomes large, these investors sell their shares to the public, 
+through issue of offer document and the company’s shares are listed in stock 
+exchange. This is called as offer for sale. The proceeds of this issue go the 
+existing investors and not to the company. 
+ 
+iii. Issue of Indian Depository Receipts (IDR): A foreign company which is listed in 
+stock exchange abroad can raise money from Indian investors by selling (issuing) 
+shares. These shares are held in trust by a foreign custodian bank against which a 
+domestic custodian bank issues an instrument called Indian depository receipts 
+(IDR), denominated in `. IDR can be traded in stock exchange like any other shares 
+and the holder is entitled to rights of ownership including receiving dividend. 
+
+--- Page 6 ---
+ - 6 - 
+ 
+iv. Others: 
+1) Rights issue (RI): When a company raises funds from its existing shareholders 
+by selling (issuing) them new shares / debentures, it is called as rights issue. The 
+offer document for a rights issue is called as the Letter of Offer and the issue is 
+kept open for 30-60 days. 
+ 
+Existing shareholders are entitled to apply for new shares in proportion to the 
+number of shares already held. Illustratively, in a rights issue of 1:5 ratio, the 
+investors have the right to subscribe to one (new) share of the company for every 
+5 shares held by the investor. 
+ 
+2) In a Bonus Issue, the company issues new shares to its existing shareholders. 
+As the new shares are issued out of the company’s reserves (accumulated 
+profits), shareholders need not pay any money to the company for receiving the 
+new shares. 
+ 
+The net worth (owner’s money) of a company consist of its equity capital and its 
+reserves. After a bonus issue, there is an increase in the equity capital of the 
+company with a corresponding decrease in the reserves, while the net worth 
+remains constant. In a bonus issue of 5:1 ratio, the investor will receive five new 
+shares of the company for each share the investor held as illustrated below. 
+ 
+ABC company Before bonus 
+issue 
+After (1:5) 
+bonus issue 
+Number of shares issued 100 600 
+(100+500) 
+Equity capital (Face value of ` 
+10) 
+` 1,000 ` 6,000 
+(1,000+5,000) 
+Reserves (accumulated profits) ` 10,000 ` 5,000 
+(10,000-5000) 
+Net worth ` 11,000 ` 11,000 
+ 
+
+--- Page 7 ---
+ - 7 - 
+d. Pricing of (public) issues 
+On the basis of pricing, issues can be classified into Book Built issues and Fixed Price 
+issues. We shall focus on the book built issues as most of the issues nowadays are 
+through this method. 
+ 
+i. In a Book Building issue the issuer company mentions the minimum and 
+maximum price (price band) at which it will sell (issue) its shares. Thus the offer 
+document (in this case, called the Red Herring Prospectus ) contains only the 
+price band instead of the price at which its shares are offered to the public. 
+ 
+Within this price band the investor can choose the price at which the investor are 
+willing to buy the shares and also the quantity. As this process is similar to bidding 
+in an auction, the application form for book built issue is also known as the bid 
+form. 
+ 
+At times the issuer may revise the price band ( revision of price band) which has 
+to be accompanied with news paper advertisement. 
+ 
+Bids by various investors are entered into the stock exchange system through the 
+broker’s (also called syndicate member ) terminal. The list of the bid received 
+from investors at various price bands is known as the ‘ book’ and can be seen in 
+the website(s) of the stock exchange for each investor category. 
+ 
+Based on the total demand in the ‘book’, the cut off price is then decided by the 
+issuer and merchant banker. The cut off price is the price at which the cumulative 
+demand for shares, equals or exceeds the offer size. Illustratively, the cut off price 
+of a public issue of 1,000 shares with a price band of ` 100 to 120, would be 
+arrived as follows 
+ 
+Number 
+of shares 
+bid 
+Cumulative 
+number of 
+shares bid 
+Bid 
+price 
+(`) 
+Shares 
+allotted 
+0 0 120 0 
+300 300 119 300 
+450 750 117 450 
+550 1,300 114 250 
+200 1,500 112 0 
+0 1,500 110 0 
+Cut off price ` 114 Total 1,000 
+ 
+All investors who applied (bid) for shares at or above the cut off price will be 
+allotted shares at the cut off price (issue price), proportionately. 
+ 
+If the investment is less than ` 200,000 ( retail investor), the investor have the 
+option of bidding at the cut off price by ticking the cut-off option in the application 
+form. 
+ 
+After the allotment, a public advertisement is issued, giving details of the issue 
+price as well as a table showing the number of securities and the amount payable 
+by successful bidders. 
+
+--- Page 8 ---
+ - 8 - 
+ 
+The merchant banker in a book built public issue is known as Book Running 
+Lead Managers (BRLM) and the issues is kept open for 3 ‐7 working days, and is 
+extendable by 3 days in case of a revision in the price band by the issuer. 
+ 
+ii. In a Fixed Price Issue the company raising funds decides the price at which it will 
+sell (issue) its shares to the public and the same is printed in the Offer Document. 
+This issue is kept open for 3‐10 working days. 
+ 
+2. How to invest in (public) issue? 
+ 
+a. The pre-requisites 
+(i) The investor need to have Permanent Account Number ( PAN) issued by the 
+Income Tax Department and quote the same in the application form. However, the 
+investor are not required to attach photocopy of PAN along with the application 
+form. 
+ 
+(ii) Bank account 
+ 
+(iii) Shares or debentures allotted in a public issue will be credited to the investor’s 
+account in electronic form. For this the investor need to have a demat account and 
+the investor need to fill up the correct 16 digit demat account number in the 
+application form. 
+ 
+ 
+1. How to obtain prerequisites 
+(i) Obtaining PAN : The website of Tax Information Network of Income Tax 
+Department provides on-line application for PAN. The web link for the same 
+is 
+ 
+• http://www.tin-nsdl.com/ > PAN 
+or 
+• https://tin.tin.nsdl.com/pan/index.html 
+ 
+The investor can submit his application and make payment on line or off line 
+and forward physically copies of the required documents [proof of identity, 
+proof of residence, photograph and demand draft (if the payment is off line)] 
+to the address mentioned therein. 
+ 
+(ii) Opening Demat account : Just as money is kept in bank account, shares 
+and debentures can be kept in electronic form in a demat account by an 
+entity called Depository. 
+ 
+For opening a demat account, the investor has to approach a Depository 
+Participant ( DP), an agent of Depository, and fill up an account opening 
+form. The list of DPs is available in the websites of Depositories at the 
+following web links: 
+• http://www.cdslindia.com/ > publication > dplist 
+ http://www.cdslindia.com/publication/dplist.jsp 
+ 
+
+--- Page 9 ---
+ - 9 - 
+• https://nsdl.co.in/ > Advanced Search – DP Search – Service Centers 
+https://nsdl.co.in/direct_search.php 
+ 
+Along with the account opening form, the investor must enclose the any one 
+of the following document for proof of identity and proof of address as under. 
+ 
+No. Documents for proof of 
+identity 
+Documents for proof of address 
+1 Passport 
+2 Voter ID Card 
+3 Driving license 
+4 Identity card / document with applicant’s Photo, issued by 
+a. Central / State Government and its Departments 
+b. Statutory / Regulatory Authorities 
+c. Public Sector Undertakings 
+d. Scheduled Commercial Banks 
+e. Public Financial Institutions 
+f. Colleges affiliated to Universities 
+g. Professional Bodies such as ICA I, ICWAI, ICSI, Bar Council etc., to 
+their Members and; 
+ h. Credit cards / Debit cards 
+issued by banks 
+ 
+5 PAN card with photograph Bank Passbook 
+6 - Ration Card 
+7 - Verified copies of 
+a) Electricity bills (not more than 2 
+months old) 
+b) Residence Telephone bills (not 
+more than 2 months old) and 
+c) Lease and License agreement / 
+Agreement for sale 
+8 - Self-declaration by High Court and 
+Supreme Court judges, giving the new 
+address in respect of their own 
+accounts 
+ 
+The investor has to produce the original documents, including PAN card, for 
+verification by the DP at the time of account opening. 
+ 
+The investor will have to enter into an agreement with DP in the standard 
+format, which gives details of rights and duties of investor and DP. The 
+investors are entitled to receive a copy of the agreement and schedule of 
+charges for future reference. 
+ 
+The DP will open then account and give the investor a 16 digit demat 
+account number (8 digit DP ID and 8 digit Client ID). All purchase / 
+investment in securities will be added (credited) to this account. Upon sale of 
+securities, the demat account will be reduced (debited). 
+ 
+
+--- Page 10 ---
+ - 10 - 
+The tariff / charges of DPs are available in the websites of the Depositories 
+at the following web links. 
+ 
+• CDSL: http://www.cdslindia.com/whatsnew/dpineasi.jsp or 
+http://www.cdslindia.com/ > Quick Link - List of CDSL DPs 
+ 
+• NSDL: https://nsdl.co.in/about/dps.php or 
+https://nsdl.co.in/ > Joining NSDL > As an Investor > Charges 
+ 
+The investor should remember to update its bank account number, postal 
+address etc. of the demat account, as investor will receive refund credits / 
+cheques of public issues as per the details mentioned in the demat account 
+ 
+b. Getting the offer document 
+The offer documents of public issues are available on the websites of merchant banker 
+and stock exchange. It is also available in the website of SEBI under ‘Offer Documents’ 
+section (http://www.sebi.gov.in/SectIndex.jsp?sub_sec_id=72). 
+ 
+The investor can obtain hard copy of the offer document from SEBI upon payment of ` 
+100 through Demand Draft made in favor of Securities & Exchange Board of India or 
+obtain it from the issuer company at its registered office or from the merchant banker. 
+ 
+The abridged prospectus contains all the salient features of the offer document and is 
+available along with the issue application form. 
+ 
+ 
+How to read the offer document – Refer to page no. 15 
+ 
+Box 3: IPO Grading – Refer to page no. 19 
+ 
+Credit Rating –Refer to page no. 21 
+ 
+c. Getting the application form 
+Application forms are available with stock brokers (syndicate members), collection 
+centers, Registrar to the issue (RTI) and with the bankers to the issue. 
+ 
+ASBA (Application Supported by Blocked Amount) application forms are available with 
+designated branches of the Self Certified Syndicate Bank ( SCSB), stock brokers 
+(syndicate members) or from the website(s) of Stock Exchange(s). 
+ 
+ 
+ASBA (Application Supported by Blocked Amount) the smart choice 
+ 
+ASBA is an application containing an authorization to block the application 
+money in the bank account, for subscribing to an equity issue. The investor 
+can avail ASBA facility for making payment in a public issue instead of 
+making payment through cheque. For this the investors have to submit the 
+simple ASBA application form to the designated bank branch (Self Certified 
+Syndicate Bank, SCSB). 
+ 
+
+--- Page 11 ---
+ - 11 - 
+ 
+ 
+If the investor has, say, ` 30,000 in the savings bank account and if the investor applies 
+through ASBA for shares worth say, ` 20,000, then ` 20,000 will be ‘ blocked’ in the 
+investor account till allotment of shares. If the investor is allotted, say, shares worth ` 
+18,000, then an amount of ` 18,000 is debited from bank account and transferred to 
+the issuer company and the balance of ` 2,000 is ‘unblocked’. 
+ 
+While all the time the entire amount of ` 30,000 is in your bank account, earning 
+interest. The shares allotted to are credited into the demat account within 12 days of 
+the close of the issue. 
+ 
+ASBA forms will be treated similar to the non ‐ASBA forms while finalizing the basis of 
+allotment 
+ 
+In case there are any complaints regarding ASBA applications, investors may 
+approach the concerned SCSB who is required to reply within 15 days. In case, 
+investor is not satisfied, he may write to SEBI. 
+ 
+ 
+d. How to fill the application form 
+(i) General: 
+You can make up to 3 bids in the same application form in book built issues. 
+Alternatively, you can choose to bid at the ‘cut off’ option, if your investment amount 
+is less than ` 200,000. Above that amount, you will not be treated as a retail investor 
+and you will be in the category of ‘ non institutional investor’ . However, you can 
+submit only one application per issue. 
+ 
+Fill the application in BLOCK LETTERS in English and give the following 
+ 
+ 
+S.No Normal ASBA 
+1 Status of applicant: (Individual / HUF) 
+2 Name of the applicant(s) 
+3 Age of the bidder (in case of joint holders , age of first applicant) 
+4 Depository Participant Name 
+5 DP ID 
+6 Category of Investor: (Retail) 
+7 Payment details: (Cheque / DD Number, Bank Name) Bank account number, Bank branch details 
+8 
+Check Refund Option, if covered under 68 
+centers* prescribed by RBI and IFSC code 
+of Bank 
+Signing the undertaking 
+authorizing to mark a lien of 
+funds by the bank 
+9 PAN Number 
+10 Signature of applicant 
+11 - Signature of Bank account holder, if different from applicant 
+* Available in the offer document and RBI web site 
+(http://rbidocs.rbi.org.in/rdocs/ECS/PDFs/I87908.pdf) 
+
+--- Page 12 ---
+ - 12 - 
+ 
+Fill the form legibly without any crossing, corrections and over writing. Please strike 
+off the non applicable fields in the application form. Always mention the application 
+form number on the reverse of the draft / cheque. 
+ 
+Remember to update your bank account number, postal address etc. mentioned in 
+your demat account as you will receive ref und credits / cheques as per the details 
+mentioned in your demat account. 
+ 
+(ii) ASBA application form: 
+You can avail ASBA facility even if you do not hold account with SCSB. For this 
+your ASBA application has to be signed by the account holder. 
+ 
+(iii) If you have bank account with SCSB, you can apply online if the bank offers internet 
+banking facility. 
+ 
+ 
+Grounds for rejections: (even after filling all the above fields) 
+ 
+ Applications made by partnership firms, minors 
+ Payment made by postal order / money order / cash / stock invest 
+ Bids made below minimum lot or not in multiples of lot prescribed in 
+the offer document 
+ When there is a difference in the Names of the holder(s), DP ID, Client 
+ID provided in the application and details available with Depository 
+ Multiple applications 
+ Names of the joint holders are not in the same order as details 
+available with Depository 
+ Inactive demat account 
+ Applications, which do not bear stamp of the syndicate member 
+(incase of normal application) 
+ Inadequate funds in the bank account 
+ Outstation Cheques / Drafts drawn on the banks not participating in 
+the clearing process 
+ 
+ 
+e. Submitting the application form 
+The application form and the offer document have the full contact details of where 
+you can submit the filled up forms. 
+ 
+Ensure that you submit the application well within the closing date and time specified. 
+ 
+(i) Submit the ASBA application forms to the designate branch of the SCSB/ Syndicate 
+member and collect Transaction Registration Slip (TRS) / acknowledgement. 
+(ii) Submit non ASBA application forms to the stock broker (syndicate member) along 
+with a cheque for the payment and obtain acknowledgement (date stamping on the 
+counterfoil). 
+(iii) Retain the acknowledgement till allotment / refund is complete as it is crucial 
+evidence in case of any complaint. 
+ 
+
+--- Page 13 ---
+ - 13 - 
+f. Checking the demand for the book built issue at any point of time 
+The status of bidding in a book built issue is available on the website(s) of stock 
+exchange(s) on a consolidated basis. The data is also available investor category wise. 
+ 
+g. Revision of bids 
+You can revise both the price and the quantity of your bid(s) within the price band, till 
+the issue closing date. For this use the revision form available along with the 
+application form and submit it to the same broker / SCSB. Remember to collect the 
+revised TRS. 
+ 
+h. Withdrawal of Bids 
+You can withdraw your bid till the closure of the issue by approaching syndicate 
+member/ SCSB. 
+ 
+After closure of the issue, you can withdraw your bid till the finalization of the basis of 
+allotment by making a written application to the RTI. 
+ 
+i. Allotment of shares 
+Shares will be allotted to you and credited to your demat account within 12 days of the 
+close of the issue. 
+ 
+In the case of bonds/ debentures, the timeline for allotment is 30 days of the close of 
+the issue. 
+ 
+j. Refund of money 
+(i) If you have applied through ASBA, the mo ney in your bank account is blocked to 
+the extent of your proposed investment and it continues to remain there, earning 
+interest. Upon allotment, value of the shares allotted to you is debited from your 
+bank account. In case of partial allotment the balance amount gets unblocked and 
+there is no refund. 
+ 
+The RTI issues instruction for debit or unblocking of your account within 12 days of 
+the close of the issue. 
+ 
+(ii) In case of application through cheque / demand draft, the refund would be through 
+a. Electronic mode: 
+i. Direct credit to your bank account, if you have bank account with the 
+refund banker(s) 
+ii. through ECS (Electronic Clearing Service), if you have account in one 
+of the centers specified by RBI. The list of such centers is available in 
+the in the offer document and RBI web site 
+ (http://rbidocs.rbi.org.in/rdocs/ECS/PDFs/I87908.pdf) 
+iii. You will receive intimation from the RTI about the credit 
+b. Physical refund warrants / cheques: 
+i. through under certificate of posting (UCP) if the refund amount is up to 
+` 1,500. 
+ii. through speed post / registered post, if the refund amount is above ` 
+1,500. 
+ 
+
+--- Page 14 ---
+ - 14 - 
+(iii) The RTI issues instruction for electronic credit and sends you intimation of the same 
+within 12 days of the close of the issue. The RTI despatches the refund cheques 
+within 12 days of the close of the issue. 
+ 
+To receive refund, you are required to ensure that you bank details including MICR 
+code (a 9 digit code which appears in the cheque leaf) is maintained and updated 
+with the DP along with your postal address. 
+ 
+k. Interest for delay in allotment / refund 
+You are eligible to receive interest @ 15% p.a. upon delay in allotment / refund beyond 
+the prescribed period. 
+ 
+l. Any other requirement 
+Peruse the post issue advertisements issued by the company for the issue price and 
+the basis of allotment. 
+ 
+m. Listing of the shares 
+Equity shares are listed on the stock exchange for trading within 12 days of closure of 
+the issue. 
+ 
+n. Grievance redressal (non receipt of shares, delay in refund etc.) 
+In case of any grievance in a public issue, you can approach the compliance officer of 
+the issuer, whose name and contact details are mentioned on the cover page of the 
+Offer Document. 
+ 
+SEBI also facilitates redressal of investor ’s grievances. Accordingly, you can also 
+address your complaints to SEBI through 
+• E-mail (investorcomplaints@sebi.gov.in). 
+• Visit SEBI Office (s) 
+• Letter to SEBI 
+• Lodge online complaint at the web link given below 
+ http://investor.sebi.gov.in/complaints%20form/lodge%20index.htm 
+ 
+Contact details & Jurisdiction of SEBI’s Offices: 
+ 
+SEBI BHAVAN 
+Plot No.C4-A,G - Block, Bandra Kurla Complex, 
+Bandra (East), Mumbai 400051 
+Tel: +91-22-26449000 / 40459000 / 9114 
+Fax: +91-22-26449016-20 / 40459016-20 
+E-mail: sebi@sebi.gov.in 
+(Maharashtra, Madhya Pradesh, Chhatisgarh, Goa, Diu, Daman and Dadra & Nagar Haveli) 
+ 
+
+--- Page 15 ---
+ - 15 - 
+Northern Regional Office 
+ 
+5th Floor, Bank of Baroda Building, 
+16, Sansad Marg, 
+New Delhi - 110 001. 
+Tel: +91-11-23724001-05 
+Fax: +91-11-23724006. 
+E-mail : sebinro@sebi.gov.in 
+ 
+(Haryana, Himachal Pradesh, Jammu 
+and Kashmir, Punjab, Uttar Pradesh, 
+Chandigarh, Uttarakhand and Delhi.) 
+Southern Regional Office 
+ 
+D' Monte Building, 3rd Floor, 32 D' 
+Monte Colony, TTK Road, Alwarpet, 
+Chennai: 600018. 
+Tel : +91-44-24674000/24674150 
+Fax: +91-044-24674001 
+E-mail : sebisro@sebi.gov.in 
+ 
+(Andhra Pradesh, Karnataka, Kerala, 
+Tamilnadu, Pondicherry and Lakshwadeep 
+& Minicoy Islands) 
+Eastern Regional Office 
+ 
+L&T Chambers, 3rd Floor, 
+16 Camac Street, 
+Kolkata - 700 017 
+Tel : +91-33-23023000 
+Fax: +91-33-22874307. 
+E-mail : sebiero@sebi.gov.in 
+ 
+(Assam, Bihar, Manipur, Meghalaya, 
+Nagaland, Orissa, West Bengal, 
+Arunachal Pradesh, Mizoram, Tripura, 
+Sikkim, Jharkhand and Andaman & 
+Nicobar Islands) 
+Western Regional Office 
+ 
+Unit No: 002, Ground Floor, SAKAR-1, 
+Near Gandhigram Railway Station 
+Opp. Nehru Bridge, Ashram Road 
+Ahmedabad - 380 009 
+Tel : +91 079-26583633-35 
+Fax:+91 079-26583632 
+E-mail : sebiaro@sebi.gov.in 
+ 
+(Gujarat and Rajasthan) 
+ 
+
+--- Page 16 ---
+ - 16 - 
+How to Read Offer Document 
+ 
+The offer documents lists out the facts, details and promise of the issuer 
+company. It is very import ant to read it before decid ing on whether or not to 
+investing in an iss ue. The different sections in the offer document and their 
+contents are as under. 
+ 
+Cover Page 
+You will find the following information in the cover page: 
+• full contact details of the issuer company 
+• full contact details of the lead managers and registrar to the issue, 
+• Details of the issue 
+o nature of the instrument 
+o number of security offered 
+o price of the security 
+o amount of instrument offered 
+o and issue size 
+• proposed listi ng details 
+• Credit Rating / IPO Grading 
+• Risks in relation to th e first issue, etc. 
+ 
+ 
+Risk Factors 
+Under this head the management of the is suer company gives its view on the 
+Internal and exte rnal risks envisaged by the compan y and the propos als, if any, 
+to address such risks . This information is disclose d in the initial pages of the 
+document and also in the abridged prospectus. The investor s hould read the 
+risk factors before taking investment decision. 
+ 
+ 
+Introduction 
+The following information / details are available in this section. 
+• A summary of the industry in wh ich the issuer company operates 
+• The brief details of the business of the issuer company 
+• Summary of consolidated financial st atements and other data on general 
+information about the issuer company 
+• The details of merchant banker s and their responsibilities 
+• The details of brokers (syndicate members) to the Issue 
+• In case of debt issue 
+o credit rating 
+o details of debenture trustees 
+• details of monitoring agency for issue size exceeding Rs.500 cr 
+• Book building process in brief 
+• IPO Grading in case of firs t Issue of equity capital 
+• Details of underwriting Agreements 
+
+--- Page 17 ---
+ - 17 - 
+• Details of capital structure 
+o objects of the offer 
+o funds requirement 
+o funding plan 
+o schedule of implementation 
+o funds deployed 
+o sources of financing of funds already deployed 
+o sources of financing for the balance fund requirement 
+o interim use of funds 
+• Basic terms of issue 
+• Basis for issue price 
+• Tax benefits 
+ 
+ 
+About us 
+The following information / details are available in this section. 
+• Details of the business of the company 
+• Business strategy 
+• Competitive strengths 
+• Insurance 
+• Industry ‐regulation (if applicable) 
+• History 
+• Corporate structure 
+o main objects 
+o subsidiary details 
+o management and boa rd of directors 
+o compensation 
+o corporate governance 
+• Related party transactions 
+• Exchange rates & currency of presentation 
+• Dividend policy 
+ 
+ 
+Financial Statements 
+Under this head Summary Restated Financial Statements for the last five 
+financial statements and stub period are disclosed which includes Balance Sheet, 
+Profit and Loss Account, Ca sh Flow Statement, Notes to accounts, financial 
+ratios, Related Party Disclosures etc 
+ 
+Legal and other information 
+The following information / disclosures are available in this section. 
+• Details of litigations involving 
+o the company 
+o the promoters of the company 
+o its subsidiaries 
+o and group companies 
+
+--- Page 18 ---
+ - 18 - 
+• Material developments since the last balance sheet date 
+• Government approvals / licensing arrangements 
+• Investment approvals (Foreign investment Promotion Board/ Reserve Bank of 
+India etc.) 
+• Technical approvals 
+• Indebtedness 
+ 
+ 
+Other regulatory and statutory disclosures 
+The following disclosures are available in this section. 
+• Authority for the Issue 
+• Prohibition by SEBI 
+• Eligibility of the company to enter the capital market 
+• Disclaimer statement by the issuer and the lead manager 
+• Disclaimer in respect of jurisdiction 
+• Distribution of information to investors 
+• Disclaimer clause of the stock exchanges 
+• Listing 
+• Impersonation 
+• Minimum subscription 
+• Letters of allotment or refund orders 
+• Consents 
+• Expert opinion 
+• Changes in the auditors in the last 3 years 
+• Expenses of the issue 
+o fees payable to the intermediaries involved in the issue process 
+o details of all the previous issues 
+o all outstanding instruments 
+o commission and brokera ge on previous issues 
+• Capitalization of reserves or profits 
+• Option to subscribe in the issue 
+• Purchase of property 
+• Revaluation of assets 
+• Classes of shares 
+• Stock market data for equity shares of the company, 
+• Promise vis ‐à‐vis performance in the past issues 
+• Mechanism for redressal of investor grievances 
+ 
+ 
+Offering information 
+The following information / details are available in this section. 
+• Terms of the Issue 
+• Mode of payment of dividend 
+• Face value and issue price 
+• Rights of the equity shareholder, 
+
+--- Page 19 ---
+ - 19 - 
+• Market lot 
+• Nomination facility to investor 
+• Issue procedure 
+o book building procedure in details 
+o process of making an application 
+• Signing of underw riting agreement 
+• Filing of prospectus with SEBI / Registrar of Companies (ROC) 
+• Announcement of stat utory advertisement 
+o Issuance of confirmation of allocation note ("can") 
+o allotment in the issue 
+o designated date 
+• general instructions 
+o instructions for completing the bid form 
+o payment instructions 
+o submission of bid form 
+o other instructions 
+• Disposal of application and application moneys 
+• Interest on refund of excess bid amount 
+• Basis of allotment or allocation 
+• Method of propor tionate allotment 
+• Despatch of refund orders 
+• Communications 
+• Undertaking by the company 
+• Utilization of issue proceeds 
+• Restrictions on foreign ownership of Indian securities 
+ 
+ 
+Other Information: 
+• Main provision of Articles of Association 
+• Declaration about the tr uth and fairness by Board of Directors, Company 
+Secretary and Compliance Officer. 
+• Material contracts and documen t placed for inspections. 
+ 
+
+--- Page 20 ---
+ - 20 - 
+ 
+IPO Grading 
+ 
+1. What is IPO grading 
+IPO grading is the professional assessment of a Credit Rating Agency 
+(CRAs) on the fundamentals of a company in relation to the other listed equity 
+shares in India. It is mandatory for the issuer company coming with initial 
+public offer (IPO) to obtain IPO grading from a Credit Rating Agency and 
+disclose the same on the cover page of offer document and Application 
+form. 
+ 
+IPO grading endeavors to provide the in vestor with an informed, objective 
+independent and unbias ed opinion of a CRA after an alyzing various relevant 
+factors. It is an additional input available for your investment decision. 
+ 
+An IPO grade is NOT a suggestion or recommendation as to whether an 
+investor should subscrib e to the IPO or not. IPO grade needs to be read 
+together with the disclosures made in the offer document including the risk 
+factors as well as the price at which the shares are being offered. 
+ 
+IPO grade does not take in to account the price of the shares being offered. 
+Therefore, the investors need to make an ind ependent judgment regarding 
+the price of the investment. 
+ 
+2. Factors considered in grading 
+The indicative list of areas that are generally looked into by the CRA while 
+arriving at an IPO grade includes: 
+• Business Prospects and Competitive Position 
+o Industry Prospects 
+o Company Prospects 
+• Financial Position 
+• Management Quality 
+• Corporate Governance Practices 
+• Compliance and Litigation History 
+• New Projects—Ri sks and Prospects 
+ 
+The IPO grading process may vary on a case to case basis. 
+ 
+3. The grades 
+The grades are allocated on a 5 point scale, the lo west being Grade 1 and 
+highest Grade 5. Such grading is generally assigned on a five point scale with 
+a higher score indicating stronger fundamentals and vice versa as below. 
+ 
+IPO grade 1: Poor fundamentals 
+IPO grade 2: Below average fundamentals 
+IPO grade 3: Average fundamentals 
+
+--- Page 21 ---
+ - 21 - 
+IPO grade 4: Above average fundamentals 
+IPO grade 5: Strong fundamentals 
+ 
+ 
+ 
+4. Where is it available? 
+The IPO grades obtained by a company along with a description of the grades 
+can be found in the 
+• Offer document 
+• Abridged prospectus 
+• Issue advertisement 
+• any other place where the issuer is advertising its issue 
+• CRA’s letter to the issuer, containing the detailed rationale for assigning 
+the particular grade, which is available for inspection at the registered 
+office of the company and on the webs ites of stock exchanges where it is 
+proposed to be listed. 
+ 
+5. SEBI’s role in IPO grading 
+CRA, which assign IPO grades are regu lated by SEBI. However, SEBI does 
+not pass any judgment on the quality of the issuer company. SEBI’s 
+observations on the offe r document are entirely independent of the IPO 
+grading process or the grades received by the company. 
+ 
+*** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 22 ---
+ - 22 - 
+Credit Rating 
+1. What is credit rating 
+Credit rating is an opinion of a Cr edit Rating Agency ( CRA) on the likelihood of 
+timely payment of interest and principal (credit risk) on the rated debt instrument. 
+It is an unbiased, objective, and independent assessment of the issuer's capacity 
+to meet its financial obligations and is conveyed with alphanumeric symbols. 
+ 
+Credit rating is not a recommendation to buy, sell or hold a debt instrument. It is a 
+comment on the probability of the intere st and principal of a debt instrument 
+being paid or not paid on time (credit risk). Rating is an additional input; however 
+investors are required to make your their independent and objective analysis 
+before arriving at an investment decision. 
+ 
+2. How is it done? 
+Each credit rating agency has its own set of criteria and di fferent weight age for 
+each component for a ssigning the ratings. The indicative list of factors that are 
+taken into consideration for credit ra ting are issuer com pany’s opera tional 
+efficiency, its str engths and weakness, level of technological development, 
+financials, competence an d effectiveness of management, past record of debt 
+servicing, etc. The issuer pays for the credit rating. 
+ 
+3. The credit rating sy mbols and their meanings 
+Each rating symbol is an alphanumeric repr esentation of the degree of 
+repayment risk associated with debt instruments. 
+ 
+Symbol* 
+(Rating category) 
+Description (with regard to the likelihood of meeting 
+the debt obligations on time) 
+AAA Highest Safety 
+AA High Safety 
+A Adequate Safety 
+BBB Moderate Safety 
+BB Inadequate Safety 
+B High Risk 
+C Substantial Risk 
+D Default 
+ 
+* Indicative 
+ 
+Depending on the type of debt instrument th at is rated (long te rm, short term or 
+fixed deposits), rating symbols vary. The deb t instruments rated 'BBB' and above 
+are classified as investment grade ratings. An investment grade rating signifies 
+the rating agency’s belief that the rated instrument is likely to meet its payment 
+obligations. Instruments that are rated ‘BB‘ and below are classified as 
+speculative grade category ra tings in which case the ab ility to meet the payment 
+obligations is considered to be “speculative”. Instruments rated in the speculative 
+
+--- Page 23 ---
+ - 23 - 
+grade are considered to carry materially higher risk and a higher probability of 
+default compared to instruments rated in the investment grade. 
+ 
+Within a rating category, “+” and “-” sy mbols are used to indicate finer 
+distinctions. Illustratively, ratings in a higher rating category such as ‘AA-‘ is 
+stronger than ratings in a lower rating category such as ‘A+‘. 
+ 
+4. From where can the credit ra tings of instruments be obtained? 
+Credit ratings assigned by to various instruments are made available by the CRA 
+through press releases and on their respective webs ites. The same are also 
+available in the offer document of the issuer company and in media 
+advertisements. 
+ 
+The list of CRA’s in India and their websites are as under 
+ 
+No. Name of CRA Website 
+1 CRISIL Ltd. www.crisil.com 
+2 Fitch Ratings India Private Ltd. http://www.fitchindia.com 
+3 ICRA Ltd. www.icra.in 
+4 Credit Analysis & Research Ltd. (CARE) www.careratings.com 
+5 Brickwork Ratings India Pvt Ltd. http://www.brickworkratings.com
+ 
+ 
+5. Subsequent change in rating 
+Rating is an opinion base d on information available at a point in time with the 
+CRA. However, information can change significantly over time causing the issuer 
+company’s performance to deviate from the earlier expectations thereby affecting 
+the future repayment abilities and thus, requiring the rating to be altered. 
+ 
+CRA are required to continuously monito r the rating of debt instrument till its 
+maturity and carry out periodic reviews of all published rating s. In case of any 
+changes in the ratings so assigned, the agencies are required to disclose the 
+same through press releases and on their respective websites. 
+ 
+A downgrade in the rating indicates that the risk of the instrument is higher than 
+what was earlier predicted. 
+ 
+6. What kind of responsibility or accountability will attach to a rating 
+agency if an investor, who makes his investment decision on the basis of 
+its rating, incurs a loss on the investment? 
+A credit rating is a professional opinion given after studying all available 
+information at a particular point of time . Nevertheless, such opinions may prove 
+wrong in the contex t of subsequent even ts. There is no c ontract between an 
+investor and a ra ting agency and the investor is free to accept or reject the 
+opinion of the agency. 
+ 
+
+--- Page 24 ---
+ - 24 - 
+It is advisable that the investor should also do his own risk analysis apart from 
+relying on ratings while making investments. 
+ 
+7. SEBI’s role 
+CRAs are registered and regulated by SEBI. However, SEBI does not play any 
+role in the assessment made by the rating agency. Th e rating is an independent 
+professional opinion of the CRA. 
+ 
+ 
+3. Investor protection Measures 
+ 
+SEBI has issued ICDR (Issue of Ca pital and Disclosure Requirements) 
+Regulations with a view to protect the interest of in vestors. These regulations 
+provides for disclosure of material information including risk factors to enable the 
+investors to take an informed investme nt decision. An investor is expected to 
+invest after going through the offer documents which contain risk factors. 
+ 
+Additionally, there are stri ngent entry norms for issuer compan ies seeking to 
+access markets, lock in of promoters’ shares and also requirement of a 
+monitoring agency for issues exceeding Rs.500 cr in size. There are also 
+provisions for a safety net (wherein sh ares are purchased by Lead manager 
+/selected persons from retail investors a fter listing at the is sue price) and or 
+green shoe option (wherein pr ice stabilization is envisaged post listing). Regular 
+disclosures need to be made to the st ock exchanges regarding funds mobilized 
+in the public issue. 
+ 
+4. Message to investors 
+ 
+DOS 
+9 Take a holistic view of your fin ancial goals and invest accordingly 
+9 Be aware that value of your investm ents is subject to ups and downs of the 
+market. They do not offer guaranteed returns like bank deposits 
+9 Read the Offer Document ( OD) before investing and carefully note: 
+ Risk factors pertaining to the issue 
+ Financials of the issuer 
+ Object of the issue 
+ Outstanding litigations and defaults, if any 
+ IPO Grading / Credit rating 
+ Basis of issue price 
+ Business Overview 
+ Background of promoters 
+ Instructions before making application 
+9 Be aware that 
+ The OD is available on the webs ite(s) of SEBI, Issuer and Stock 
+Exchange(s) 
+
+--- Page 25 ---
+ - 25 - 
+ Physical copy of the OD may be ob tained from SEBI or from Merchant 
+Banker (MB) or the issuer 
+ Abridged OD is available along with the issue application form 
+9 Be aware that an inte rmediary or its staff maki ng a recommendation, is 
+required to disclose their interest/ position in that issue 
+9 Use Application Supported by Blocked Amount ( ASBA) for equity issues - the 
+smart choice 
+ Avail ASBA application forms from website(s) of Stock Exchange(s) 
+and submit it to Self Certified Syndicate Bank (SCSB) 
+ Submit application elec tronically if you have internet banking facility 
+with SCSBs 
+ Be aware that you can make up to 5 ASBA applications per bank 
+account per issue 
+9 Fill the application in BLOCK LETTERS in English 
+9 Peruse the status of the ‘book’ on the Stock Exchange website(s) 
+9 In case of any doubt / grievance, contact the Compliance Officer / MB named 
+in the OD 
+ Be aware that listed compan ies, Registrar to the Issue (RTI) and MBs 
+are required to have a dedicated Email ID for re gistering your 
+complaints 
+9 Be aware that investor complaints against listed companies are displayed on 
+the websites of Stock Exchange (SE) 
+9 Approach SEBI, if your grievance is not resolved 
+9 Peruse the post issue ad vertisements issued by th e company for issue price 
+and basis of allotment 
+ 
+ 
+DON’TS 
+8 Do not invest with borrowed money 
+8 Do not expect unrealistic / guaranteed returns 
+8 Do not invest without reading the OD 
+8 Do not be influenced by advertisemen t / advices / rumours / unauthentic news 
+promising unrealistic gains and windfall profits in mass media 
+8 Do not be guided by astrological pr edictions on share prices and market 
+movements 
+8 Do not fall prey to market rumours / ‘hot tips’/ ‘oppo rtunity knocks only once’ 
+kind of advice 
+8 Do not be swayed by market sentiments 
+8 Do not invest on any explicit / implicit promises made by anyone 
+8 Do not indulge in impulse investing 
+8 Do not participate in unauthorised and illegal trades outside the stock 
+exchange mechanism prior to listing (grey market) 
+8 Do not give wrong / cont radictory / incomplete info rmation in the application 
+form 
+8 Do not submit mult iple applications 
+8 Do not mutilate the application form 
+
+--- Page 26 ---
+ - 26 - 
+8 Do not pay application money by postal order / money order / cash 
+8 Do not send the application form by post 
+8 Do not speculate on high returns upon listing 
+8 Do not engage in practi ces that distort demand / prices artificially 
+ 
+ 
+RIGHTS 
+9 To offer comments, if any, on the draft OD available on the websites of MB / 
+Stock Exchange / SEBI and have them addressed in the (final) OD filed with 
+Registrar Of Companies / Stock Exchange 
+9 To revise / change your bid before its closure 
+9 To withdraw your application, before the allotment 
+In case of ASBA application 
+ up to the bid closure period by writing to the SCSB 
+ after closure of issue by writing to the RTI 
+In case of normal application 
+ by writing to the RTI 
+9 To receive in e quity issue(s) 
+ allotment and de mat credit within 12 working days of its closure 
+ refund within 15 days of its closure 
+9 To receive allotment / refund within 30 days of closure of debt issue(s) 
+9 To receive refund through ECS / NEFT / RTGS, wherever such facility is 
+available 
+9 To receive interest @ 15 % p.a. upon delay in allotment / re fund beyond the 
+aforesaid period 
+9 In case of issue of debt securities: 
+ To receive credit of deb t securities into the demat a/c within 2 working 
+days of allotment 
+ 
+ 
+RESPONSIBILITIES 
+9 To offer comments, if any, on the draft OD available on the websites of MB / 
+Stock Exchange / SEBI 
+9 Read the OD, unde rstand the risks properly and then make your investment 
+decision 
+9 Invest only after carefully analyzing th e suitability in the context of your 
+financial goals and risk taking capacity 
+9 While filling up the application form: 
+ To give complete information 
+ To fill it legibly without any cros sing / corrections / over writing 
+ To ensure that the name(s) and signa ture(s) match with that of the 
+demat account and that they are in the same order 
+ To furnish all the documents sought 
+ To strike off the non applicable fields 
+ To mention the application form numb er on the reverse of the draft / 
+cheque 
+
+--- Page 27 ---
+ - 27 - 
+ To recheck the information provided including 
+1. 16 digit demat account number 
+2. PAN 
+3. Bank account details 
+ Collect acknowledgement for your ap plication from Syndicate member 
+ 
+9 If using ASBA: 
+ Use specified application form for ASBA 
+ If applicant is different from accoun t holder, ensure ASBA application is 
+signed by account holder and applicant 
+ Submit the application forms to SCSB/Syndicate member within 
+closing date and specified closing time 
+ Collect Transaction Registration Slip ( TRS) / acknowledgement from 
+SCSB / Syndicate member 
+ Collect revised TRS in case of revision of bids 
+9 Peruse reports i ssued by the Company on utilisation of issue proceeds 
+ 
+ 
+***

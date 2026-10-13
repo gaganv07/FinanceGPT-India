@@ -1,0 +1,34 @@
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Virtual environment (kept on D: drive)
+.venv/
+venv/
+ENV/
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Local cache and temp files
+.cache/
+*.tmp
+*.log
+
+# Vector store index artifacts (can be regenerated)
+vector_store/*.faiss
+vector_store/*.pkl
+vector_store/*.json
+
+# Downloaded raw PDFs (optional, keeping repo clean)
+data/raw/*.pdf
+data/raw/*.tmp
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
