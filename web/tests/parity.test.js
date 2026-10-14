@@ -190,3 +190,20 @@ describe("Security & Secrets Protection", () => {
     assert.ok(content.includes("node_modules"), "Must ignore node_modules");
   });
 });
+
+describe("Safe Markdown & Response Rendering", () => {
+  test("SafeMarkdown component file exists", () => {
+    const componentPath = path.resolve(__dirname, "../components/SafeMarkdown.tsx");
+    assert.ok(fs.existsSync(componentPath), "SafeMarkdown component must exist");
+  });
+
+  test("SafeMarkdown does not use dangerouslySetInnerHTML", () => {
+    const componentPath = path.resolve(__dirname, "../components/SafeMarkdown.tsx");
+    const content = fs.readFileSync(componentPath, "utf-8");
+    assert.ok(
+      !content.includes("dangerouslySetInnerHTML"),
+      "Must NEVER use dangerouslySetInnerHTML to prevent XSS"
+    );
+    assert.ok(content.includes("sanitizeUrl"), "Must sanitize link URLs");
+  });
+});

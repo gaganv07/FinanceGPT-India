@@ -11,6 +11,7 @@ import {
 } from "@/lib/finance-tools";
 import { Citation, DocumentChunk, SourceMetadata } from "@/lib/types";
 import rawSources from "@/data/sources_metadata.json";
+import { SafeMarkdown } from "@/components/SafeMarkdown";
 
 const sourcesList = Object.values(rawSources) as unknown as SourceMetadata[];
 
@@ -477,8 +478,8 @@ export default function FinanceGPTApp() {
                         </div>
                       )}
 
-                      {/* Message Content formatted with line breaks */}
-                      <div style={{ whiteSpace: "pre-wrap" }}>{msg.text}</div>
+                      {/* Message Content formatted with safe Markdown */}
+                      <SafeMarkdown content={msg.text} />
 
                       {/* Official Citations */}
                       {msg.citations && msg.citations.length > 0 && (
