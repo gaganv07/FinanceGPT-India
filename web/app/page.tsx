@@ -684,7 +684,8 @@ export default function FinanceGPTApp() {
 
             {/* EMI CALCULATOR */}
             {calcTab === "emi" && (() => {
-              const res = calculateEmi(emiPrincipal, emiRate, emiYears);
+              const tenureMonths = Math.round(emiYears * 12);
+              const res = calculateEmi(emiPrincipal, emiRate, tenureMonths);
               return (
                 <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))", gap: "1.25rem" }}>
                   <div className="glass-panel" style={{ padding: "1.5rem" }}>
@@ -713,7 +714,7 @@ export default function FinanceGPTApp() {
                       </label>
                       <input
                         type="range"
-                        min={1}
+                        min={0}
                         max={25}
                         step={0.1}
                         value={emiRate}

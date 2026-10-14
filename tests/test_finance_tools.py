@@ -61,6 +61,17 @@ def test_emi_standard():
     assert res["total_interest_payable"] > 0
 
 
+def test_emi_5lakh_9_5pct_5years():
+    # P = 500,000, R = 9.5%, tenure = 60 months (5 years) -> EMI ~ 10,500.93
+    res = calculate_emi(500000, 9.5, 60)
+    assert res["success"] is True
+    assert round(res["monthly_emi"], 2) == 10500.93
+    assert round(res["total_amount_payable"], 2) == 630055.80
+    assert round(res["total_interest_payable"], 2) == 130055.80
+    assert res["tenure_months"] == 60
+    assert res["tenure_years"] == 5.0
+
+
 def test_emi_zero_interest():
     res = calculate_emi(60000, 0.0, 6)
     assert res["success"] is True

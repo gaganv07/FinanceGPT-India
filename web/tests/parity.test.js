@@ -42,21 +42,24 @@ function calculateEmi(principal, annualRatePct, tenureMonths) {
     return { success: false, error: "Invalid parameters" };
   }
   if (annualRatePct === 0) {
-    const emi = principal / tenureMonths;
+    const emi = round2(principal / tenureMonths);
+    const totalAmount = round2(emi * tenureMonths);
     return {
       success: true,
-      monthly_emi: round2(emi),
-      total_amount_payable: round2(principal),
+      monthly_emi: emi,
+      total_amount_payable: totalAmount,
       total_interest_payable: 0
     };
   }
   const r = annualRatePct / (12 * 100.0);
-  const emi = (principal * r * Math.pow(1 + r, tenureMonths)) / (Math.pow(1 + r, tenureMonths) - 1);
-  const totalAmount = emi * tenureMonths;
+  const powTerm = Math.pow(1 + r, tenureMonths);
+  const rawEmi = (principal * r * powTerm) / (powTerm - 1);
+  const emi = round2(rawEmi);
+  const totalAmount = round2(emi * tenureMonths);
   return {
     success: true,
-    monthly_emi: round2(emi),
-    total_amount_payable: round2(totalAmount),
+    monthly_emi: emi,
+    total_amount_payable: totalAmount,
     total_interest_payable: round2(totalAmount - principal)
   };
 }
@@ -113,10 +116,24 @@ describe("Finance Calculators Parity Tests", () => {
     assert.ok(res.total_interest_payable > 0);
   });
 
+  test("Loan EMI 5 Lakh at 9.5% for 60 months (5 years) user scenario", () => {
+    // P = 500,000, R = 9.5%, tenure = 60 months (5 years)
+    const res = calculateEmi(500000, 9.5, 60);
+    assert.equal(res.success, true);
+    assert.equal(res.monthly_emi, 10500.93);
+    assert.equal(res.total_amount_payable, 630055.80);
+    assert.equal(res.total_interest_payable, 130055.80);
+    // Verify mathematical identity: total repayment === EMI * tenureMonths
+    assert.equal(res.total_amount_payable, Math.round(res.monthly_emi * 60 * 100) / 100);
+    // Verify mathematical identity: total interest === total repayment - principal
+    assert.equal(res.total_interest_payable, Math.round((res.total_amount_payable - 500000) * 100) / 100);
+  });
+
   test("Loan EMI zero interest edge case", () => {
     const res = calculateEmi(60000, 0.0, 6);
     assert.equal(res.success, true);
     assert.equal(res.monthly_emi, 10000.00);
+    assert.equal(res.total_amount_payable, 60000.00);
     assert.equal(res.total_interest_payable, 0.00);
   });
 

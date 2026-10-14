@@ -120,15 +120,16 @@ def calculate_emi(principal: float, annual_rate_pct: float, tenure_months: int) 
 
     # Special case: 0% interest loan
     if annual_rate_pct == 0:
-        emi = principal / tenure_months
-        total_payment = principal
+        emi = round(principal / tenure_months, 2)
+        total_payment = round(emi * tenure_months, 2)
         total_interest = 0.0
     else:
         monthly_rate = (annual_rate_pct / 100.0) / 12.0
         pow_term = (1.0 + monthly_rate) ** tenure_months
-        emi = (principal * monthly_rate * pow_term) / (pow_term - 1.0)
-        total_payment = emi * tenure_months
-        total_interest = total_payment - principal
+        raw_emi = (principal * monthly_rate * pow_term) / (pow_term - 1.0)
+        emi = round(raw_emi, 2)
+        total_payment = round(emi * tenure_months, 2)
+        total_interest = round(total_payment - principal, 2)
 
     interest_ratio = (total_interest / principal) * 100.0 if principal > 0 else 0.0
 

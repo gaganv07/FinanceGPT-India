@@ -111,15 +111,21 @@ export function calculateEmi(
   let totalInterest = 0;
 
   if (annualRatePct === 0) {
-    emi = principal / tenureMonths;
-    totalPayment = principal;
+    emi = round2(principal / tenureMonths);
+    totalPayment = round2(emi * tenureMonths);
     totalInterest = 0;
   } else {
-    const monthlyRate = annualRatePct / 100.0 / 12.0;
+    // 1. Convert annual interest rate percentage to monthly decimal rate: R / (12 * 100)
+    const monthlyRate = annualRatePct / (12.0 * 100.0);
+    // 2. Compute (1 + r)^n
     const powTerm = Math.pow(1.0 + monthlyRate, tenureMonths);
-    emi = (principal * monthlyRate * powTerm) / (powTerm - 1.0);
-    totalPayment = emi * tenureMonths;
-    totalInterest = totalPayment - principal;
+    // 3. Compute standard reducing-balance EMI: [P × r × (1+r)^n] / [(1+r)^n - 1]
+    const rawEmi = (principal * monthlyRate * powTerm) / (powTerm - 1.0);
+    emi = round2(rawEmi);
+    // 4. Calculate total repayment as EMI multiplied by the number of months
+    totalPayment = round2(emi * tenureMonths);
+    // 5. Calculate total interest as total repayment minus principal
+    totalInterest = round2(totalPayment - principal);
   }
 
   const interestRatio = principal > 0 ? (totalInterest / principal) * 100.0 : 0.0;
@@ -138,11 +144,11 @@ export function calculateEmi(
     formula: "EMI = [P × r × (1+r)^n] / [(1+r)^n - 1]",
     steps: [
       `1. Loan Principal (P): ₹${principal.toLocaleString("en-IN", { minimumFractionDigits: 2 })}`,
-      `2. Monthly Interest Rate (r): ${(annualRatePct / 12.0).toFixed(4)}%`,
-      `3. Total Number of EMIs (n): ${tenureMonths} months`,
+      `2. Annual Interest Rate: ${annualRatePct}% (Monthly rate r = ${(annualRatePct / 12.0).toFixed(4)}%)`,
+      `3. Total Number of EMIs (n): ${tenureMonths} months (${(tenureMonths / 12.0).toFixed(1)} years)`,
       `4. Monthly EMI: ₹${emi.toLocaleString("en-IN", { minimumFractionDigits: 2 })}`,
-      `5. Total Repayment: ₹${totalPayment.toLocaleString("en-IN", { minimumFractionDigits: 2 })}`,
-      `6. Total Interest Cost: ₹${totalInterest.toLocaleString("en-IN", { minimumFractionDigits: 2 })} (${interestRatio.toFixed(1)}% of principal)`
+      `5. Total Repayment (EMI × ${tenureMonths} months): ₹${totalPayment.toLocaleString("en-IN", { minimumFractionDigits: 2 })}`,
+      `6. Total Interest Cost (Repayment - Principal): ₹${totalInterest.toLocaleString("en-IN", { minimumFractionDigits: 2 })} (${interestRatio.toFixed(1)}% of principal)`
     ],
     disclaimer: "Standard reducing-balance amortization. Processing fees, insurance, and bank levies are excluded."
   };
